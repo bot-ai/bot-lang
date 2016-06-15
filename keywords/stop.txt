@@ -1,5 +1,5 @@
 stop
-shut up
-be quiet
-leave me alone
+shut_up
+be_quiet
+leave_me_alone
 quit
