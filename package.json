@@ -1,0 +1,22 @@
+{
+  "name": "bot-lang",
+  "version": "1.0.0",
+  "description": "Common bot language subsitutions and tags.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bot-ai/bot-lang.git"
+  },
+  "author": "Rob Ellis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bot-ai/bot-lang/issues"
+  },
+  "homepage": "https://github.com/bot-ai/bot-lang#readme"
+}
