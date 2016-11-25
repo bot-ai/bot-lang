@@ -26,7 +26,6 @@ const lineHandle = function lineHandle(replacements, phrase, replacement = '') {
     phrase = phrase.substring(0, phrase.length - 1);
   }
 
-  // phrase = re11.replace(phrase, ' ');
   phrase = phrase.replace(re11, ' ');
   const cleanPhrase = quotemeta(phrase);
 

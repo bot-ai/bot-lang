@@ -27,6 +27,10 @@ exports.substitutes = function(input) {
   return testRegexpArray(util.prepFile("replace/substitutes.txt"), input); 
 }
 
+exports.british = function(input) {
+  return testRegexpArray(util.prepFile("replace/british.txt"), input); 
+}
+
 const testRegexpArray = function(replacements, msg) {
 
   msg = msg.replace(re1, '<plus>');
@@ -49,6 +53,7 @@ const testRegexpArray = function(replacements, msg) {
 
   msg = msg.replace(re8, ' ');
   msg = msg.replace(re9, '+');
+  msg = msg.replace(re11, ' ');
   msg = msg.replace(re10, v => v.replace(',', ''));
 
   return msg.trim();
