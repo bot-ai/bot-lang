@@ -1,10 +1,10 @@
 var mocha = require("mocha");
 var assert = require("assert");
-var norm = require("../src/index");
-var tag = require("../src/tag");
-var replace = require("../src/replace");
+var norm = require("../lib/index");
+var tag = require("../lib/tag");
+var replace = require("../lib/replace");
 
-import clean from "../src/clean";
+import clean from "../lib/clean";
 
 describe('Bot-Lang', function(){
   var startTime;
