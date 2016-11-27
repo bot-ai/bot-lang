@@ -23,6 +23,12 @@ exports.british = function(input) {
   return testRegexpArray(input); 
 }
 
+exports.emoji = function(input) {
+  util.prepFile("replace/emoji.json");
+  return testRegexpArray(input); 
+}
+
+
 exports.all = function(input) {
   util.prepFile("replace/contractions.txt");
   util.prepFile("replace/spellfix.txt");

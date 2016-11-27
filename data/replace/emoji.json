@@ -1,0 +1,5138 @@
+[
+  {
+    "phrase": "💯",
+    "replacement": ":100:"
+  },
+  {
+    "phrase": "🔢",
+    "replacement": ":1234:"
+  },
+  {
+    "phrase": "😀",
+    "replacement": ":grinning:"
+  },
+  {
+    "phrase": "😬",
+    "replacement": ":grimacing:"
+  },
+  {
+    "phrase": "😁",
+    "replacement": ":grin:"
+  },
+  {
+    "phrase": "😂",
+    "replacement": ":joy:"
+  },
+  {
+    "phrase": "😃",
+    "replacement": ":smiley:"
+  },
+  {
+    "phrase": "😄",
+    "replacement": ":smile:"
+  },
+  {
+    "phrase": "😅",
+    "replacement": ":sweat_smile:"
+  },
+  {
+    "phrase": "😆",
+    "replacement": ":laughing:"
+  },
+  {
+    "phrase": "😇",
+    "replacement": ":innocent:"
+  },
+  {
+    "phrase": "😉",
+    "replacement": ":wink:"
+  },
+  {
+    "phrase": "😊",
+    "replacement": ":blush:"
+  },
+  {
+    "phrase": "🙂",
+    "replacement": ":slightly_smiling:"
+  },
+  {
+    "phrase": "🙃",
+    "replacement": ":upside_down:"
+  },
+  {
+    "phrase": "☺️",
+    "replacement": ":relaxed:"
+  },
+  {
+    "phrase": "😋",
+    "replacement": ":yum:"
+  },
+  {
+    "phrase": "😌",
+    "replacement": ":relieved:"
+  },
+  {
+    "phrase": "😍",
+    "replacement": ":heart_eyes:"
+  },
+  {
+    "phrase": "😘",
+    "replacement": ":kissing_heart:"
+  },
+  {
+    "phrase": "😗",
+    "replacement": ":kissing:"
+  },
+  {
+    "phrase": "😙",
+    "replacement": ":kissing_smiling_eyes:"
+  },
+  {
+    "phrase": "😚",
+    "replacement": ":kissing_closed_eyes:"
+  },
+  {
+    "phrase": "😜",
+    "replacement": ":stuck_out_tongue_winking_eye:"
+  },
+  {
+    "phrase": "😝",
+    "replacement": ":stuck_out_tongue_closed_eyes:"
+  },
+  {
+    "phrase": "😛",
+    "replacement": ":stuck_out_tongue:"
+  },
+  {
+    "phrase": "🤑",
+    "replacement": ":money_mouth:"
+  },
+  {
+    "phrase": "🤓",
+    "replacement": ":nerd:"
+  },
+  {
+    "phrase": "😎",
+    "replacement": ":sunglasses:"
+  },
+  {
+    "phrase": "🤗",
+    "replacement": ":hugging:"
+  },
+  {
+    "phrase": "😏",
+    "replacement": ":smirk:"
+  },
+  {
+    "phrase": "😶",
+    "replacement": ":no_mouth:"
+  },
+  {
+    "phrase": "😐",
+    "replacement": ":neutral_face:"
+  },
+  {
+    "phrase": "😑",
+    "replacement": ":expressionless:"
+  },
+  {
+    "phrase": "😒",
+    "replacement": ":unamused:"
+  },
+  {
+    "phrase": "🙄",
+    "replacement": ":rolling_eyes:"
+  },
+  {
+    "phrase": "🤔",
+    "replacement": ":thinking:"
+  },
+  {
+    "phrase": "😳",
+    "replacement": ":flushed:"
+  },
+  {
+    "phrase": "😞",
+    "replacement": ":disappointed:"
+  },
+  {
+    "phrase": "😟",
+    "replacement": ":worried:"
+  },
+  {
+    "phrase": "😠",
+    "replacement": ":angry:"
+  },
+  {
+    "phrase": "😡",
+    "replacement": ":rage:"
+  },
+  {
+    "phrase": "😔",
+    "replacement": ":pensive:"
+  },
+  {
+    "phrase": "😕",
+    "replacement": ":confused:"
+  },
+  {
+    "phrase": "🙁",
+    "replacement": ":slightly_sad:"
+  },
+  {
+    "phrase": "☹",
+    "replacement": ":white_frowning:"
+  },
+  {
+    "phrase": "😣",
+    "replacement": ":persevere:"
+  },
+  {
+    "phrase": "😖",
+    "replacement": ":confounded:"
+  },
+  {
+    "phrase": "😫",
+    "replacement": ":tired_face:"
+  },
+  {
+    "phrase": "😩",
+    "replacement": ":weary:"
+  },
+  {
+    "phrase": "😤",
+    "replacement": ":triumph:"
+  },
+  {
+    "phrase": "😮",
+    "replacement": ":open_mouth:"
+  },
+  {
+    "phrase": "😱",
+    "replacement": ":scream:"
+  },
+  {
+    "phrase": "😨",
+    "replacement": ":fearful:"
+  },
+  {
+    "phrase": "😰",
+    "replacement": ":cold_sweat:"
+  },
+  {
+    "phrase": "😯",
+    "replacement": ":hushed:"
+  },
+  {
+    "phrase": "😦",
+    "replacement": ":frowning:"
+  },
+  {
+    "phrase": "😧",
+    "replacement": ":anguished:"
+  },
+  {
+    "phrase": "😢",
+    "replacement": ":cry:"
+  },
+  {
+    "phrase": "😥",
+    "replacement": ":disappointed_relieved:"
+  },
+  {
+    "phrase": "😪",
+    "replacement": ":sleepy:"
+  },
+  {
+    "phrase": "😓",
+    "replacement": ":sweat:"
+  },
+  {
+    "phrase": "😭",
+    "replacement": ":sob:"
+  },
+  {
+    "phrase": "😵",
+    "replacement": ":dizzy_face:"
+  },
+  {
+    "phrase": "😲",
+    "replacement": ":astonished:"
+  },
+  {
+    "phrase": "🤐",
+    "replacement": ":zipper_mouth:"
+  },
+  {
+    "phrase": "😷",
+    "replacement": ":mask:"
+  },
+  {
+    "phrase": "🤒",
+    "replacement": ":thermometer_face:"
+  },
+  {
+    "phrase": "🤕",
+    "replacement": ":bandage_face:"
+  },
+  {
+    "phrase": "😴",
+    "replacement": ":sleeping:"
+  },
+  {
+    "phrase": "💤",
+    "replacement": ":zzz:"
+  },
+  {
+    "phrase": "💩",
+    "replacement": ":hankey:"
+  },
+  {
+    "phrase": "😈",
+    "replacement": ":smiling_imp:"
+  },
+  {
+    "phrase": "👿",
+    "replacement": ":imp:"
+  },
+  {
+    "phrase": "👹",
+    "replacement": ":japanese_ogre:"
+  },
+  {
+    "phrase": "👺",
+    "replacement": ":japanese_goblin:"
+  },
+  {
+    "phrase": "💀",
+    "replacement": ":skull:"
+  },
+  {
+    "phrase": "👻",
+    "replacement": ":ghost:"
+  },
+  {
+    "phrase": "👽",
+    "replacement": ":alien:"
+  },
+  {
+    "phrase": "🤖",
+    "replacement": ":robot:"
+  },
+  {
+    "phrase": "😺",
+    "replacement": ":smiley_cat:"
+  },
+  {
+    "phrase": "😸",
+    "replacement": ":smile_cat:"
+  },
+  {
+    "phrase": "😹",
+    "replacement": ":joy_cat:"
+  },
+  {
+    "phrase": "😻",
+    "replacement": ":heart_eyes_cat:"
+  },
+  {
+    "phrase": "😼",
+    "replacement": ":smirk_cat:"
+  },
+  {
+    "phrase": "😽",
+    "replacement": ":kissing_cat:"
+  },
+  {
+    "phrase": "🙀",
+    "replacement": ":scream_cat:"
+  },
+  {
+    "phrase": "😿",
+    "replacement": ":crying_cat_face:"
+  },
+  {
+    "phrase": "😾",
+    "replacement": ":pouting_cat:"
+  },
+  {
+    "phrase": "🙌",
+    "replacement": ":raised_hands:"
+  },
+  {
+    "phrase": "👏",
+    "replacement": ":clap:"
+  },
+  {
+    "phrase": "👋",
+    "replacement": ":wave:"
+  },
+  {
+    "phrase": "👍",
+    "replacement": ":+1:"
+  },
+  {
+    "phrase": "👎",
+    "replacement": ":-1:"
+  },
+  {
+    "phrase": "👊",
+    "replacement": ":facepunch:"
+  },
+  {
+    "phrase": "✊",
+    "replacement": ":fist:"
+  },
+  {
+    "phrase": "✌️",
+    "replacement": ":v:"
+  },
+  {
+    "phrase": "👌",
+    "replacement": ":ok_hand:"
+  },
+  {
+    "phrase": "✋",
+    "replacement": ":hand:"
+  },
+  {
+    "phrase": "👐",
+    "replacement": ":open_hands:"
+  },
+  {
+    "phrase": "💪",
+    "replacement": ":muscle:"
+  },
+  {
+    "phrase": "🙏",
+    "replacement": ":pray:"
+  },
+  {
+    "phrase": "☝️",
+    "replacement": ":point_up:"
+  },
+  {
+    "phrase": "👆",
+    "replacement": ":point_up_2:"
+  },
+  {
+    "phrase": "👇",
+    "replacement": ":point_down:"
+  },
+  {
+    "phrase": "👈",
+    "replacement": ":point_left:"
+  },
+  {
+    "phrase": "👉",
+    "replacement": ":point_right:"
+  },
+  {
+    "phrase": "🖕",
+    "replacement": ":middle_finger:"
+  },
+  {
+    "phrase": "🖐",
+    "replacement": ":splayed_fingers:"
+  },
+  {
+    "phrase": "🤘",
+    "replacement": ":sign_of_horns:"
+  },
+  {
+    "phrase": "🖖",
+    "replacement": ":vulcan_salute:"
+  },
+  {
+    "phrase": "✍",
+    "replacement": ":writing_hand:"
+  },
+  {
+    "phrase": "💅",
+    "replacement": ":nail_care:"
+  },
+  {
+    "phrase": "👄",
+    "replacement": ":lips:"
+  },
+  {
+    "phrase": "👅",
+    "replacement": ":tongue:"
+  },
+  {
+    "phrase": "👂",
+    "replacement": ":ear:"
+  },
+  {
+    "phrase": "👃",
+    "replacement": ":nose:"
+  },
+  {
+    "phrase": "👁",
+    "replacement": ":eye:"
+  },
+  {
+    "phrase": "👀",
+    "replacement": ":eyes:"
+  },
+  {
+    "phrase": "👤",
+    "replacement": ":bust_in_silhouette:"
+  },
+  {
+    "phrase": "👥",
+    "replacement": ":busts_in_silhouette:"
+  },
+  {
+    "phrase": "🗣",
+    "replacement": ":speaking_head:"
+  },
+  {
+    "phrase": "👶",
+    "replacement": ":baby:"
+  },
+  {
+    "phrase": "👦",
+    "replacement": ":boy:"
+  },
+  {
+    "phrase": "👧",
+    "replacement": ":girl:"
+  },
+  {
+    "phrase": "👨",
+    "replacement": ":man:"
+  },
+  {
+    "phrase": "👩",
+    "replacement": ":woman:"
+  },
+  {
+    "phrase": "👱",
+    "replacement": ":person_with_blond_hair:"
+  },
+  {
+    "phrase": "👴",
+    "replacement": ":older_man:"
+  },
+  {
+    "phrase": "👵",
+    "replacement": ":older_woman:"
+  },
+  {
+    "phrase": "👲",
+    "replacement": ":man_with_gua_pi_mao:"
+  },
+  {
+    "phrase": "👳",
+    "replacement": ":man_with_turban:"
+  },
+  {
+    "phrase": "👮",
+    "replacement": ":cop:"
+  },
+  {
+    "phrase": "👷",
+    "replacement": ":construction_worker:"
+  },
+  {
+    "phrase": "💂",
+    "replacement": ":guardsman:"
+  },
+  {
+    "phrase": "🕵",
+    "replacement": ":sleuth:"
+  },
+  {
+    "phrase": "🎅",
+    "replacement": ":santa:"
+  },
+  {
+    "phrase": "👼",
+    "replacement": ":angel:"
+  },
+  {
+    "phrase": "👸",
+    "replacement": ":princess:"
+  },
+  {
+    "phrase": "👰",
+    "replacement": ":bride_with_veil:"
+  },
+  {
+    "phrase": "🏃",
+    "replacement": ":runner:"
+  },
+  {
+    "phrase": "🚶",
+    "replacement": ":walking:"
+  },
+  {
+    "phrase": "💃",
+    "replacement": ":dancer:"
+  },
+  {
+    "phrase": "👯",
+    "replacement": ":dancers:"
+  },
+  {
+    "phrase": "👫",
+    "replacement": ":couple:"
+  },
+  {
+    "phrase": "👬",
+    "replacement": ":two_men_holding_hands:"
+  },
+  {
+    "phrase": "👭",
+    "replacement": ":two_women_holding_hands:"
+  },
+  {
+    "phrase": "🙇",
+    "replacement": ":bow:"
+  },
+  {
+    "phrase": "💁",
+    "replacement": ":information_desk_person:"
+  },
+  {
+    "phrase": "🙅",
+    "replacement": ":no_good:"
+  },
+  {
+    "phrase": "🙆",
+    "replacement": ":ok_woman:"
+  },
+  {
+    "phrase": "🙋",
+    "replacement": ":raising_hand:"
+  },
+  {
+    "phrase": "🙎",
+    "replacement": ":person_with_pouting_face:"
+  },
+  {
+    "phrase": "🙍",
+    "replacement": ":person_frowning:"
+  },
+  {
+    "phrase": "💇",
+    "replacement": ":haircut:"
+  },
+  {
+    "phrase": "💆",
+    "replacement": ":massage:"
+  },
+  {
+    "phrase": "💑",
+    "replacement": ":couple_with_heart:"
+  },
+  {
+    "phrase": "👩‍❤️‍👩",
+    "replacement": ":female_couple_with_heart:"
+  },
+  {
+    "phrase": "👨‍❤️‍👨",
+    "replacement": ":male_couple_with_heart:"
+  },
+  {
+    "phrase": "💏",
+    "replacement": ":couplekiss:"
+  },
+  {
+    "phrase": "👩‍❤️‍💋‍👩",
+    "replacement": ":female_couplekiss:"
+  },
+  {
+    "phrase": "👨‍❤️‍💋‍👨",
+    "replacement": ":male_couplekiss:"
+  },
+  {
+    "phrase": "👪",
+    "replacement": ":family:"
+  },
+  {
+    "phrase": "👨‍👩‍👧",
+    "replacement": ":family_man_woman_girl:"
+  },
+  {
+    "phrase": "👨‍👩‍👧‍👦",
+    "replacement": ":family_man_woman_girl_boy:"
+  },
+  {
+    "phrase": "👨‍👩‍👦‍👦",
+    "replacement": ":family_man_woman_boys:"
+  },
+  {
+    "phrase": "👨‍👩‍👧‍👧",
+    "replacement": ":family_man_woman_girls:"
+  },
+  {
+    "phrase": "👩‍👩‍👦",
+    "replacement": ":family_women_boy:"
+  },
+  {
+    "phrase": "👩‍👩‍👧",
+    "replacement": ":family_women_girl:"
+  },
+  {
+    "phrase": "👩‍👩‍👧‍👦",
+    "replacement": ":family_women_girl_boy:"
+  },
+  {
+    "phrase": "👩‍👩‍👦‍👦",
+    "replacement": ":family_women_boys:"
+  },
+  {
+    "phrase": "👩‍👩‍👧‍👧",
+    "replacement": ":family_women_girls:"
+  },
+  {
+    "phrase": "👨‍👨‍👦",
+    "replacement": ":family_men_boy:"
+  },
+  {
+    "phrase": "👨‍👨‍👧",
+    "replacement": ":family_men_girl:"
+  },
+  {
+    "phrase": "👨‍👨‍👧‍👦",
+    "replacement": ":family_men_girl_boy:"
+  },
+  {
+    "phrase": "👨‍👨‍👦‍👦",
+    "replacement": ":family_men_boys:"
+  },
+  {
+    "phrase": "👨‍👨‍👧‍👧",
+    "replacement": ":family_men_girls:"
+  },
+  {
+    "phrase": "👚",
+    "replacement": ":womans_clothes:"
+  },
+  {
+    "phrase": "👕",
+    "replacement": ":shirt:"
+  },
+  {
+    "phrase": "👖",
+    "replacement": ":jeans:"
+  },
+  {
+    "phrase": "👔",
+    "replacement": ":necktie:"
+  },
+  {
+    "phrase": "👗",
+    "replacement": ":dress:"
+  },
+  {
+    "phrase": "👙",
+    "replacement": ":bikini:"
+  },
+  {
+    "phrase": "👘",
+    "replacement": ":kimono:"
+  },
+  {
+    "phrase": "💄",
+    "replacement": ":lipstick:"
+  },
+  {
+    "phrase": "💋",
+    "replacement": ":kiss:"
+  },
+  {
+    "phrase": "👣",
+    "replacement": ":footprints:"
+  },
+  {
+    "phrase": "👠",
+    "replacement": ":high_heel:"
+  },
+  {
+    "phrase": "👡",
+    "replacement": ":sandal:"
+  },
+  {
+    "phrase": "👢",
+    "replacement": ":boot:"
+  },
+  {
+    "phrase": "👞",
+    "replacement": ":mans_shoe:"
+  },
+  {
+    "phrase": "👟",
+    "replacement": ":athletic_shoe:"
+  },
+  {
+    "phrase": "👒",
+    "replacement": ":womans_hat:"
+  },
+  {
+    "phrase": "🎩",
+    "replacement": ":tophat:"
+  },
+  {
+    "phrase": "⛑",
+    "replacement": ":helmet:"
+  },
+  {
+    "phrase": "🎓",
+    "replacement": ":mortar_board:"
+  },
+  {
+    "phrase": "👑",
+    "replacement": ":crown:"
+  },
+  {
+    "phrase": "🎒",
+    "replacement": ":school_satchel:"
+  },
+  {
+    "phrase": "👝",
+    "replacement": ":pouch:"
+  },
+  {
+    "phrase": "👛",
+    "replacement": ":purse:"
+  },
+  {
+    "phrase": "👜",
+    "replacement": ":handbag:"
+  },
+  {
+    "phrase": "💼",
+    "replacement": ":briefcase:"
+  },
+  {
+    "phrase": "👓",
+    "replacement": ":eyeglasses:"
+  },
+  {
+    "phrase": "🕶",
+    "replacement": ":dark_sunglasses:"
+  },
+  {
+    "phrase": "💍",
+    "replacement": ":ring:"
+  },
+  {
+    "phrase": "🌂",
+    "replacement": ":closed_umbrella:"
+  },
+  {
+    "phrase": "🐶",
+    "replacement": ":dog:"
+  },
+  {
+    "phrase": "🐱",
+    "replacement": ":cat:"
+  },
+  {
+    "phrase": "🐭",
+    "replacement": ":mouse:"
+  },
+  {
+    "phrase": "🐹",
+    "replacement": ":hamster:"
+  },
+  {
+    "phrase": "🐰",
+    "replacement": ":rabbit:"
+  },
+  {
+    "phrase": "🐻",
+    "replacement": ":bear:"
+  },
+  {
+    "phrase": "🐼",
+    "replacement": ":panda_face:"
+  },
+  {
+    "phrase": "🐨",
+    "replacement": ":koala:"
+  },
+  {
+    "phrase": "🐯",
+    "replacement": ":tiger:"
+  },
+  {
+    "phrase": "🦁",
+    "replacement": ":lion_face:"
+  },
+  {
+    "phrase": "🐮",
+    "replacement": ":cow:"
+  },
+  {
+    "phrase": "🐷",
+    "replacement": ":pig:"
+  },
+  {
+    "phrase": "🐽",
+    "replacement": ":pig_nose:"
+  },
+  {
+    "phrase": "🐸",
+    "replacement": ":frog:"
+  },
+  {
+    "phrase": "🐙",
+    "replacement": ":octopus:"
+  },
+  {
+    "phrase": "🐵",
+    "replacement": ":monkey_face:"
+  },
+  {
+    "phrase": "🙈",
+    "replacement": ":see_no_evil:"
+  },
+  {
+    "phrase": "🙉",
+    "replacement": ":hear_no_evil:"
+  },
+  {
+    "phrase": "🙊",
+    "replacement": ":speak_no_evil:"
+  },
+  {
+    "phrase": "🐒",
+    "replacement": ":monkey:"
+  },
+  {
+    "phrase": "🐔",
+    "replacement": ":chicken:"
+  },
+  {
+    "phrase": "🐧",
+    "replacement": ":penguin:"
+  },
+  {
+    "phrase": "🐦",
+    "replacement": ":bird:"
+  },
+  {
+    "phrase": "🐤",
+    "replacement": ":baby_chick:"
+  },
+  {
+    "phrase": "🐣",
+    "replacement": ":hatching_chick:"
+  },
+  {
+    "phrase": "🐥",
+    "replacement": ":hatched_chick:"
+  },
+  {
+    "phrase": "🐺",
+    "replacement": ":wolf:"
+  },
+  {
+    "phrase": "🐗",
+    "replacement": ":boar:"
+  },
+  {
+    "phrase": "🐴",
+    "replacement": ":horse:"
+  },
+  {
+    "phrase": "🦄",
+    "replacement": ":unicorn_face:"
+  },
+  {
+    "phrase": "🐝",
+    "replacement": ":bee:"
+  },
+  {
+    "phrase": "🐛",
+    "replacement": ":bug:"
+  },
+  {
+    "phrase": "🐌",
+    "replacement": ":snail:"
+  },
+  {
+    "phrase": "🐞",
+    "replacement": ":beetle:"
+  },
+  {
+    "phrase": "🐜",
+    "replacement": ":ant:"
+  },
+  {
+    "phrase": "🕷",
+    "replacement": ":spider:"
+  },
+  {
+    "phrase": "🦂",
+    "replacement": ":scorpion:"
+  },
+  {
+    "phrase": "🦀",
+    "replacement": ":crab:"
+  },
+  {
+    "phrase": "🐍",
+    "replacement": ":snake:"
+  },
+  {
+    "phrase": "🐢",
+    "replacement": ":turtle:"
+  },
+  {
+    "phrase": "🐠",
+    "replacement": ":tropical_fish:"
+  },
+  {
+    "phrase": "🐟",
+    "replacement": ":fish:"
+  },
+  {
+    "phrase": "🐡",
+    "replacement": ":blowfish:"
+  },
+  {
+    "phrase": "🐬",
+    "replacement": ":dolphin:"
+  },
+  {
+    "phrase": "🐳",
+    "replacement": ":whale:"
+  },
+  {
+    "phrase": "🐋",
+    "replacement": ":whale2:"
+  },
+  {
+    "phrase": "🐊",
+    "replacement": ":crocodile:"
+  },
+  {
+    "phrase": "🐆",
+    "replacement": ":leopard:"
+  },
+  {
+    "phrase": "🐅",
+    "replacement": ":tiger2:"
+  },
+  {
+    "phrase": "🐃",
+    "replacement": ":water_buffalo:"
+  },
+  {
+    "phrase": "🐂",
+    "replacement": ":ox:"
+  },
+  {
+    "phrase": "🐄",
+    "replacement": ":cow2:"
+  },
+  {
+    "phrase": "🐪",
+    "replacement": ":dromedary_camel:"
+  },
+  {
+    "phrase": "🐫",
+    "replacement": ":camel:"
+  },
+  {
+    "phrase": "🐘",
+    "replacement": ":elephant:"
+  },
+  {
+    "phrase": "🐐",
+    "replacement": ":goat:"
+  },
+  {
+    "phrase": "🐏",
+    "replacement": ":ram:"
+  },
+  {
+    "phrase": "🐑",
+    "replacement": ":sheep:"
+  },
+  {
+    "phrase": "🐎",
+    "replacement": ":racehorse:"
+  },
+  {
+    "phrase": "🐖",
+    "replacement": ":pig2:"
+  },
+  {
+    "phrase": "🐀",
+    "replacement": ":rat:"
+  },
+  {
+    "phrase": "🐁",
+    "replacement": ":mouse2:"
+  },
+  {
+    "phrase": "🐓",
+    "replacement": ":rooster:"
+  },
+  {
+    "phrase": "🦃",
+    "replacement": ":turkey:"
+  },
+  {
+    "phrase": "🕊",
+    "replacement": ":dove_of_peace:"
+  },
+  {
+    "phrase": "🐕",
+    "replacement": ":dog2:"
+  },
+  {
+    "phrase": "🐩",
+    "replacement": ":poodle:"
+  },
+  {
+    "phrase": "🐈",
+    "replacement": ":cat2:"
+  },
+  {
+    "phrase": "🐇",
+    "replacement": ":rabbit2:"
+  },
+  {
+    "phrase": "🐿",
+    "replacement": ":chipmunk:"
+  },
+  {
+    "phrase": "🐾",
+    "replacement": ":feet:"
+  },
+  {
+    "phrase": "🐉",
+    "replacement": ":dragon:"
+  },
+  {
+    "phrase": "🐲",
+    "replacement": ":dragon_face:"
+  },
+  {
+    "phrase": "🌵",
+    "replacement": ":cactus:"
+  },
+  {
+    "phrase": "🎄",
+    "replacement": ":christmas_tree:"
+  },
+  {
+    "phrase": "🌲",
+    "replacement": ":evergreen_tree:"
+  },
+  {
+    "phrase": "🌳",
+    "replacement": ":deciduous_tree:"
+  },
+  {
+    "phrase": "🌴",
+    "replacement": ":palm_tree:"
+  },
+  {
+    "phrase": "🌱",
+    "replacement": ":seedling:"
+  },
+  {
+    "phrase": "🌿",
+    "replacement": ":herb:"
+  },
+  {
+    "phrase": "☘",
+    "replacement": ":shamrock:"
+  },
+  {
+    "phrase": "🍀",
+    "replacement": ":four_leaf_clover:"
+  },
+  {
+    "phrase": "🎍",
+    "replacement": ":bamboo:"
+  },
+  {
+    "phrase": "🎋",
+    "replacement": ":tanabata_tree:"
+  },
+  {
+    "phrase": "🍃",
+    "replacement": ":leaves:"
+  },
+  {
+    "phrase": "🍂",
+    "replacement": ":fallen_leaf:"
+  },
+  {
+    "phrase": "🍁",
+    "replacement": ":maple_leaf:"
+  },
+  {
+    "phrase": "🌾",
+    "replacement": ":ear_of_rice:"
+  },
+  {
+    "phrase": "🌺",
+    "replacement": ":hibiscus:"
+  },
+  {
+    "phrase": "🌻",
+    "replacement": ":sunflower:"
+  },
+  {
+    "phrase": "🌹",
+    "replacement": ":rose:"
+  },
+  {
+    "phrase": "🌷",
+    "replacement": ":tulip:"
+  },
+  {
+    "phrase": "🌼",
+    "replacement": ":blossom:"
+  },
+  {
+    "phrase": "🌸",
+    "replacement": ":cherry_blossom:"
+  },
+  {
+    "phrase": "💐",
+    "replacement": ":bouquet:"
+  },
+  {
+    "phrase": "🍄",
+    "replacement": ":mushroom:"
+  },
+  {
+    "phrase": "🌰",
+    "replacement": ":chestnut:"
+  },
+  {
+    "phrase": "🎃",
+    "replacement": ":jack_o_lantern:"
+  },
+  {
+    "phrase": "🐚",
+    "replacement": ":shell:"
+  },
+  {
+    "phrase": "🕸",
+    "replacement": ":spider_web:"
+  },
+  {
+    "phrase": "🌎",
+    "replacement": ":earth_americas:"
+  },
+  {
+    "phrase": "🌍",
+    "replacement": ":earth_africa:"
+  },
+  {
+    "phrase": "🌏",
+    "replacement": ":earth_asia:"
+  },
+  {
+    "phrase": "🌕",
+    "replacement": ":full_moon:"
+  },
+  {
+    "phrase": "🌖",
+    "replacement": ":waning_gibbous_moon:"
+  },
+  {
+    "phrase": "🌗",
+    "replacement": ":last_quarter_moon:"
+  },
+  {
+    "phrase": "🌘",
+    "replacement": ":waning_crescent_moon:"
+  },
+  {
+    "phrase": "🌑",
+    "replacement": ":new_moon:"
+  },
+  {
+    "phrase": "🌒",
+    "replacement": ":waxing_crescent_moon:"
+  },
+  {
+    "phrase": "🌓",
+    "replacement": ":first_quarter_moon:"
+  },
+  {
+    "phrase": "🌔",
+    "replacement": ":moon:"
+  },
+  {
+    "phrase": "🌚",
+    "replacement": ":new_moon_with_face:"
+  },
+  {
+    "phrase": "🌝",
+    "replacement": ":full_moon_with_face:"
+  },
+  {
+    "phrase": "🌛",
+    "replacement": ":first_quarter_moon_with_face:"
+  },
+  {
+    "phrase": "🌜",
+    "replacement": ":last_quarter_moon_with_face:"
+  },
+  {
+    "phrase": "🌞",
+    "replacement": ":sun_with_face:"
+  },
+  {
+    "phrase": "🌙",
+    "replacement": ":crescent_moon:"
+  },
+  {
+    "phrase": "⭐",
+    "replacement": ":star:"
+  },
+  {
+    "phrase": "🌟",
+    "replacement": ":star2:"
+  },
+  {
+    "phrase": "💫",
+    "replacement": ":dizzy:"
+  },
+  {
+    "phrase": "✨",
+    "replacement": ":sparkles:"
+  },
+  {
+    "phrase": "☄",
+    "replacement": ":comet:"
+  },
+  {
+    "phrase": "☀️",
+    "replacement": ":sunny:"
+  },
+  {
+    "phrase": "🌤",
+    "replacement": ":white_sun_with_small_cloud:"
+  },
+  {
+    "phrase": "⛅",
+    "replacement": ":partly_sunny:"
+  },
+  {
+    "phrase": "🌥",
+    "replacement": ":white_sun_behind_cloud:"
+  },
+  {
+    "phrase": "🌦",
+    "replacement": ":white_sun_behind_cloud_with_rain:"
+  },
+  {
+    "phrase": "☁️",
+    "replacement": ":cloud:"
+  },
+  {
+    "phrase": "🌧",
+    "replacement": ":cloud_with_rain:"
+  },
+  {
+    "phrase": "⛈",
+    "replacement": ":thunder_cloud_and_rain:"
+  },
+  {
+    "phrase": "🌩",
+    "replacement": ":cloud_with_lightning:"
+  },
+  {
+    "phrase": "⚡",
+    "replacement": ":zap:"
+  },
+  {
+    "phrase": "🔥",
+    "replacement": ":fire:"
+  },
+  {
+    "phrase": "💥",
+    "replacement": ":boom:"
+  },
+  {
+    "phrase": "❄️",
+    "replacement": ":snowflake:"
+  },
+  {
+    "phrase": "🌨",
+    "replacement": ":cloud_with_snow:"
+  },
+  {
+    "phrase": "⛄",
+    "replacement": ":snowman:"
+  },
+  {
+    "phrase": "☃",
+    "replacement": ":snowman_with_snow:"
+  },
+  {
+    "phrase": "🌬",
+    "replacement": ":wind_blowing_face:"
+  },
+  {
+    "phrase": "💨",
+    "replacement": ":dash:"
+  },
+  {
+    "phrase": "🌪",
+    "replacement": ":cloud_with_tornado:"
+  },
+  {
+    "phrase": "🌫",
+    "replacement": ":fog:"
+  },
+  {
+    "phrase": "☂",
+    "replacement": ":umbrella_without_rain:"
+  },
+  {
+    "phrase": "☔",
+    "replacement": ":umbrella:"
+  },
+  {
+    "phrase": "💧",
+    "replacement": ":droplet:"
+  },
+  {
+    "phrase": "💦",
+    "replacement": ":sweat_drops:"
+  },
+  {
+    "phrase": "🌊",
+    "replacement": ":ocean:"
+  },
+  {
+    "phrase": "🍏",
+    "replacement": ":green_apple:"
+  },
+  {
+    "phrase": "🍎",
+    "replacement": ":apple:"
+  },
+  {
+    "phrase": "🍐",
+    "replacement": ":pear:"
+  },
+  {
+    "phrase": "🍊",
+    "replacement": ":tangerine:"
+  },
+  {
+    "phrase": "🍋",
+    "replacement": ":lemon:"
+  },
+  {
+    "phrase": "🍌",
+    "replacement": ":banana:"
+  },
+  {
+    "phrase": "🍉",
+    "replacement": ":watermelon:"
+  },
+  {
+    "phrase": "🍇",
+    "replacement": ":grapes:"
+  },
+  {
+    "phrase": "🍓",
+    "replacement": ":strawberry:"
+  },
+  {
+    "phrase": "🍈",
+    "replacement": ":melon:"
+  },
+  {
+    "phrase": "🍒",
+    "replacement": ":cherries:"
+  },
+  {
+    "phrase": "🍑",
+    "replacement": ":peach:"
+  },
+  {
+    "phrase": "🍍",
+    "replacement": ":pineapple:"
+  },
+  {
+    "phrase": "🍅",
+    "replacement": ":tomato:"
+  },
+  {
+    "phrase": "🍆",
+    "replacement": ":eggplant:"
+  },
+  {
+    "phrase": "🌶",
+    "replacement": ":hot_pepper:"
+  },
+  {
+    "phrase": "🌽",
+    "replacement": ":corn:"
+  },
+  {
+    "phrase": "🍠",
+    "replacement": ":sweet_potato:"
+  },
+  {
+    "phrase": "🍯",
+    "replacement": ":honey_pot:"
+  },
+  {
+    "phrase": "🍞",
+    "replacement": ":bread:"
+  },
+  {
+    "phrase": "🧀",
+    "replacement": ":cheese_wedge:"
+  },
+  {
+    "phrase": "🍗",
+    "replacement": ":poultry_leg:"
+  },
+  {
+    "phrase": "🍖",
+    "replacement": ":meat_on_bone:"
+  },
+  {
+    "phrase": "🍤",
+    "replacement": ":fried_shrimp:"
+  },
+  {
+    "phrase": "🍳",
+    "replacement": ":egg:"
+  },
+  {
+    "phrase": "🍔",
+    "replacement": ":hamburger:"
+  },
+  {
+    "phrase": "🍟",
+    "replacement": ":fries:"
+  },
+  {
+    "phrase": "🌭",
+    "replacement": ":hot_dog:"
+  },
+  {
+    "phrase": "🍕",
+    "replacement": ":pizza:"
+  },
+  {
+    "phrase": "🍝",
+    "replacement": ":spaghetti:"
+  },
+  {
+    "phrase": "🌮",
+    "replacement": ":taco:"
+  },
+  {
+    "phrase": "🌯",
+    "replacement": ":burrito:"
+  },
+  {
+    "phrase": "🍜",
+    "replacement": ":ramen:"
+  },
+  {
+    "phrase": "🍲",
+    "replacement": ":stew:"
+  },
+  {
+    "phrase": "🍥",
+    "replacement": ":fish_cake:"
+  },
+  {
+    "phrase": "🍣",
+    "replacement": ":sushi:"
+  },
+  {
+    "phrase": "🍱",
+    "replacement": ":bento:"
+  },
+  {
+    "phrase": "🍛",
+    "replacement": ":curry:"
+  },
+  {
+    "phrase": "🍙",
+    "replacement": ":rice_ball:"
+  },
+  {
+    "phrase": "🍚",
+    "replacement": ":rice:"
+  },
+  {
+    "phrase": "🍘",
+    "replacement": ":rice_cracker:"
+  },
+  {
+    "phrase": "🍢",
+    "replacement": ":oden:"
+  },
+  {
+    "phrase": "🍡",
+    "replacement": ":dango:"
+  },
+  {
+    "phrase": "🍧",
+    "replacement": ":shaved_ice:"
+  },
+  {
+    "phrase": "🍨",
+    "replacement": ":ice_cream:"
+  },
+  {
+    "phrase": "🍦",
+    "replacement": ":icecream:"
+  },
+  {
+    "phrase": "🍰",
+    "replacement": ":cake:"
+  },
+  {
+    "phrase": "🎂",
+    "replacement": ":birthday:"
+  },
+  {
+    "phrase": "🍮",
+    "replacement": ":custard:"
+  },
+  {
+    "phrase": "🍬",
+    "replacement": ":candy:"
+  },
+  {
+    "phrase": "🍭",
+    "replacement": ":lollipop:"
+  },
+  {
+    "phrase": "🍫",
+    "replacement": ":chocolate_bar:"
+  },
+  {
+    "phrase": "🍿",
+    "replacement": ":popcorn:"
+  },
+  {
+    "phrase": "🍩",
+    "replacement": ":doughnut:"
+  },
+  {
+    "phrase": "🍪",
+    "replacement": ":cookie:"
+  },
+  {
+    "phrase": "🍺",
+    "replacement": ":beer:"
+  },
+  {
+    "phrase": "🍻",
+    "replacement": ":beers:"
+  },
+  {
+    "phrase": "🍷",
+    "replacement": ":wine_glass:"
+  },
+  {
+    "phrase": "🍸",
+    "replacement": ":cocktail:"
+  },
+  {
+    "phrase": "🍹",
+    "replacement": ":tropical_drink:"
+  },
+  {
+    "phrase": "🍾",
+    "replacement": ":bottle:"
+  },
+  {
+    "phrase": "🍶",
+    "replacement": ":sake:"
+  },
+  {
+    "phrase": "🍵",
+    "replacement": ":tea:"
+  },
+  {
+    "phrase": "☕",
+    "replacement": ":coffee:"
+  },
+  {
+    "phrase": "🍼",
+    "replacement": ":baby_bottle:"
+  },
+  {
+    "phrase": "🍴",
+    "replacement": ":fork_and_knife:"
+  },
+  {
+    "phrase": "🍽",
+    "replacement": ":fork_and_knife_with_plate:"
+  },
+  {
+    "phrase": "⚽",
+    "replacement": ":soccer:"
+  },
+  {
+    "phrase": "🏀",
+    "replacement": ":basketball:"
+  },
+  {
+    "phrase": "🏈",
+    "replacement": ":football:"
+  },
+  {
+    "phrase": "⚾",
+    "replacement": ":baseball:"
+  },
+  {
+    "phrase": "🎾",
+    "replacement": ":tennis:"
+  },
+  {
+    "phrase": "🏐",
+    "replacement": ":volleyball:"
+  },
+  {
+    "phrase": "🏉",
+    "replacement": ":rugby_football:"
+  },
+  {
+    "phrase": "🎱",
+    "replacement": ":8ball:"
+  },
+  {
+    "phrase": "⛳",
+    "replacement": ":golf:"
+  },
+  {
+    "phrase": "🏌",
+    "replacement": ":golfer:"
+  },
+  {
+    "phrase": "🏓",
+    "replacement": ":table_tennis:"
+  },
+  {
+    "phrase": "🏸",
+    "replacement": ":badminton:"
+  },
+  {
+    "phrase": "🏒",
+    "replacement": ":ice_hockey:"
+  },
+  {
+    "phrase": "🏑",
+    "replacement": ":field_hockey:"
+  },
+  {
+    "phrase": "🏏",
+    "replacement": ":cricket:"
+  },
+  {
+    "phrase": "🎿",
+    "replacement": ":ski:"
+  },
+  {
+    "phrase": "⛷",
+    "replacement": ":skier:"
+  },
+  {
+    "phrase": "🏂",
+    "replacement": ":snowboarder:"
+  },
+  {
+    "phrase": "⛸",
+    "replacement": ":ice_skate:"
+  },
+  {
+    "phrase": "🏹",
+    "replacement": ":bow_and_arrow:"
+  },
+  {
+    "phrase": "🎣",
+    "replacement": ":fishing_pole_and_fish:"
+  },
+  {
+    "phrase": "🚣",
+    "replacement": ":rowboat:"
+  },
+  {
+    "phrase": "🏊",
+    "replacement": ":swimmer:"
+  },
+  {
+    "phrase": "🏄",
+    "replacement": ":surfer:"
+  },
+  {
+    "phrase": "🛀",
+    "replacement": ":bath:"
+  },
+  {
+    "phrase": "⛹",
+    "replacement": ":person_with_ball:"
+  },
+  {
+    "phrase": "🏋",
+    "replacement": ":weight_lifter:"
+  },
+  {
+    "phrase": "🚴",
+    "replacement": ":bicyclist:"
+  },
+  {
+    "phrase": "🚵",
+    "replacement": ":mountain_bicyclist:"
+  },
+  {
+    "phrase": "🏇",
+    "replacement": ":horse_racing:"
+  },
+  {
+    "phrase": "🕴",
+    "replacement": ":man_levitating:"
+  },
+  {
+    "phrase": "🏆",
+    "replacement": ":trophy:"
+  },
+  {
+    "phrase": "🎽",
+    "replacement": ":running_shirt_with_sash:"
+  },
+  {
+    "phrase": "🏅",
+    "replacement": ":sports_medal:"
+  },
+  {
+    "phrase": "🎖",
+    "replacement": ":military_medal:"
+  },
+  {
+    "phrase": "🎗",
+    "replacement": ":reminder_ribbon:"
+  },
+  {
+    "phrase": "🏵",
+    "replacement": ":rosette:"
+  },
+  {
+    "phrase": "🎫",
+    "replacement": ":ticket:"
+  },
+  {
+    "phrase": "🎟",
+    "replacement": ":admission_ticket:"
+  },
+  {
+    "phrase": "🎭",
+    "replacement": ":performing_arts:"
+  },
+  {
+    "phrase": "🎨",
+    "replacement": ":art:"
+  },
+  {
+    "phrase": "🎪",
+    "replacement": ":circus_tent:"
+  },
+  {
+    "phrase": "🎤",
+    "replacement": ":microphone:"
+  },
+  {
+    "phrase": "🎧",
+    "replacement": ":headphones:"
+  },
+  {
+    "phrase": "🎼",
+    "replacement": ":musical_score:"
+  },
+  {
+    "phrase": "🎹",
+    "replacement": ":musical_keyboard:"
+  },
+  {
+    "phrase": "🎷",
+    "replacement": ":saxophone:"
+  },
+  {
+    "phrase": "🎺",
+    "replacement": ":trumpet:"
+  },
+  {
+    "phrase": "🎸",
+    "replacement": ":guitar:"
+  },
+  {
+    "phrase": "🎻",
+    "replacement": ":violin:"
+  },
+  {
+    "phrase": "🎬",
+    "replacement": ":clapper:"
+  },
+  {
+    "phrase": "🎮",
+    "replacement": ":video_game:"
+  },
+  {
+    "phrase": "👾",
+    "replacement": ":space_invader:"
+  },
+  {
+    "phrase": "🎯",
+    "replacement": ":dart:"
+  },
+  {
+    "phrase": "🎲",
+    "replacement": ":game_die:"
+  },
+  {
+    "phrase": "🎰",
+    "replacement": ":slot_machine:"
+  },
+  {
+    "phrase": "🎳",
+    "replacement": ":bowling:"
+  },
+  {
+    "phrase": "🚗",
+    "replacement": ":car:"
+  },
+  {
+    "phrase": "🚕",
+    "replacement": ":taxi:"
+  },
+  {
+    "phrase": "🚙",
+    "replacement": ":blue_car:"
+  },
+  {
+    "phrase": "🚌",
+    "replacement": ":bus:"
+  },
+  {
+    "phrase": "🚎",
+    "replacement": ":trolleybus:"
+  },
+  {
+    "phrase": "🏎",
+    "replacement": ":racing_car:"
+  },
+  {
+    "phrase": "🚓",
+    "replacement": ":police_car:"
+  },
+  {
+    "phrase": "🚑",
+    "replacement": ":ambulance:"
+  },
+  {
+    "phrase": "🚒",
+    "replacement": ":fire_engine:"
+  },
+  {
+    "phrase": "🚐",
+    "replacement": ":minibus:"
+  },
+  {
+    "phrase": "🚚",
+    "replacement": ":truck:"
+  },
+  {
+    "phrase": "🚛",
+    "replacement": ":articulated_lorry:"
+  },
+  {
+    "phrase": "🚜",
+    "replacement": ":tractor:"
+  },
+  {
+    "phrase": "🏍",
+    "replacement": ":racing_motorcycle:"
+  },
+  {
+    "phrase": "🚲",
+    "replacement": ":bike:"
+  },
+  {
+    "phrase": "🚨",
+    "replacement": ":rotating_light:"
+  },
+  {
+    "phrase": "🚔",
+    "replacement": ":oncoming_police_car:"
+  },
+  {
+    "phrase": "🚍",
+    "replacement": ":oncoming_bus:"
+  },
+  {
+    "phrase": "🚘",
+    "replacement": ":oncoming_automobile:"
+  },
+  {
+    "phrase": "🚖",
+    "replacement": ":oncoming_taxi:"
+  },
+  {
+    "phrase": "🚡",
+    "replacement": ":aerial_tramway:"
+  },
+  {
+    "phrase": "🚠",
+    "replacement": ":mountain_cableway:"
+  },
+  {
+    "phrase": "🚟",
+    "replacement": ":suspension_railway:"
+  },
+  {
+    "phrase": "🚃",
+    "replacement": ":railway_car:"
+  },
+  {
+    "phrase": "🚋",
+    "replacement": ":train:"
+  },
+  {
+    "phrase": "🚝",
+    "replacement": ":monorail:"
+  },
+  {
+    "phrase": "🚄",
+    "replacement": ":bullettrain_side:"
+  },
+  {
+    "phrase": "🚅",
+    "replacement": ":bullettrain_front:"
+  },
+  {
+    "phrase": "🚈",
+    "replacement": ":light_rail:"
+  },
+  {
+    "phrase": "🚞",
+    "replacement": ":mountain_railway:"
+  },
+  {
+    "phrase": "🚂",
+    "replacement": ":steam_locomotive:"
+  },
+  {
+    "phrase": "🚆",
+    "replacement": ":train2:"
+  },
+  {
+    "phrase": "🚇",
+    "replacement": ":metro:"
+  },
+  {
+    "phrase": "🚊",
+    "replacement": ":tram:"
+  },
+  {
+    "phrase": "🚉",
+    "replacement": ":station:"
+  },
+  {
+    "phrase": "🚁",
+    "replacement": ":helicopter:"
+  },
+  {
+    "phrase": "🛩",
+    "replacement": ":small_airplane:"
+  },
+  {
+    "phrase": "✈️",
+    "replacement": ":airplane:"
+  },
+  {
+    "phrase": "🛫",
+    "replacement": ":airplane_departure:"
+  },
+  {
+    "phrase": "🛬",
+    "replacement": ":airplane_arrival:"
+  },
+  {
+    "phrase": "⛵",
+    "replacement": ":boat:"
+  },
+  {
+    "phrase": "🛥",
+    "replacement": ":motor_boat:"
+  },
+  {
+    "phrase": "🚤",
+    "replacement": ":speedboat:"
+  },
+  {
+    "phrase": "⛴",
+    "replacement": ":ferry:"
+  },
+  {
+    "phrase": "🛳",
+    "replacement": ":passenger_ship:"
+  },
+  {
+    "phrase": "🚀",
+    "replacement": ":rocket:"
+  },
+  {
+    "phrase": "🛰",
+    "replacement": ":artificial_satellite:"
+  },
+  {
+    "phrase": "💺",
+    "replacement": ":seat:"
+  },
+  {
+    "phrase": "⚓",
+    "replacement": ":anchor:"
+  },
+  {
+    "phrase": "🚧",
+    "replacement": ":construction:"
+  },
+  {
+    "phrase": "⛽",
+    "replacement": ":fuelpump:"
+  },
+  {
+    "phrase": "🚏",
+    "replacement": ":busstop:"
+  },
+  {
+    "phrase": "🚦",
+    "replacement": ":vertical_traffic_light:"
+  },
+  {
+    "phrase": "🚥",
+    "replacement": ":traffic_light:"
+  },
+  {
+    "phrase": "🏁",
+    "replacement": ":checkered_flag:"
+  },
+  {
+    "phrase": "🚢",
+    "replacement": ":ship:"
+  },
+  {
+    "phrase": "🎡",
+    "replacement": ":ferris_wheel:"
+  },
+  {
+    "phrase": "🎢",
+    "replacement": ":roller_coaster:"
+  },
+  {
+    "phrase": "🎠",
+    "replacement": ":carousel_horse:"
+  },
+  {
+    "phrase": "🏗",
+    "replacement": ":building_construction:"
+  },
+  {
+    "phrase": "🌁",
+    "replacement": ":foggy:"
+  },
+  {
+    "phrase": "🗼",
+    "replacement": ":tokyo_tower:"
+  },
+  {
+    "phrase": "🏭",
+    "replacement": ":factory:"
+  },
+  {
+    "phrase": "⛲",
+    "replacement": ":fountain:"
+  },
+  {
+    "phrase": "🎑",
+    "replacement": ":rice_scene:"
+  },
+  {
+    "phrase": "⛰",
+    "replacement": ":mountain:"
+  },
+  {
+    "phrase": "🏔",
+    "replacement": ":snow_capped_mountain:"
+  },
+  {
+    "phrase": "🗻",
+    "replacement": ":mount_fuji:"
+  },
+  {
+    "phrase": "🌋",
+    "replacement": ":volcano:"
+  },
+  {
+    "phrase": "🗾",
+    "replacement": ":japan:"
+  },
+  {
+    "phrase": "🏕",
+    "replacement": ":camping:"
+  },
+  {
+    "phrase": "⛺",
+    "replacement": ":tent:"
+  },
+  {
+    "phrase": "🏞",
+    "replacement": ":national_park:"
+  },
+  {
+    "phrase": "🛣",
+    "replacement": ":motorway:"
+  },
+  {
+    "phrase": "🛤",
+    "replacement": ":railway_track:"
+  },
+  {
+    "phrase": "🌅",
+    "replacement": ":sunrise:"
+  },
+  {
+    "phrase": "🌄",
+    "replacement": ":sunrise_over_mountains:"
+  },
+  {
+    "phrase": "🏜",
+    "replacement": ":desert:"
+  },
+  {
+    "phrase": "🏖",
+    "replacement": ":beach_with_umbrella:"
+  },
+  {
+    "phrase": "🏝",
+    "replacement": ":desert_island:"
+  },
+  {
+    "phrase": "🌇",
+    "replacement": ":city_sunrise:"
+  },
+  {
+    "phrase": "🌆",
+    "replacement": ":city_sunset:"
+  },
+  {
+    "phrase": "🏙",
+    "replacement": ":cityscape:"
+  },
+  {
+    "phrase": "🌃",
+    "replacement": ":night_with_stars:"
+  },
+  {
+    "phrase": "🌉",
+    "replacement": ":bridge_at_night:"
+  },
+  {
+    "phrase": "🌌",
+    "replacement": ":milky_way:"
+  },
+  {
+    "phrase": "🌠",
+    "replacement": ":stars:"
+  },
+  {
+    "phrase": "🎇",
+    "replacement": ":sparkler:"
+  },
+  {
+    "phrase": "🎆",
+    "replacement": ":fireworks:"
+  },
+  {
+    "phrase": "🌈",
+    "replacement": ":rainbow:"
+  },
+  {
+    "phrase": "🏘",
+    "replacement": ":buildings:"
+  },
+  {
+    "phrase": "🏰",
+    "replacement": ":european_castle:"
+  },
+  {
+    "phrase": "🏯",
+    "replacement": ":japanese_castle:"
+  },
+  {
+    "phrase": "🏟",
+    "replacement": ":stadium:"
+  },
+  {
+    "phrase": "🗽",
+    "replacement": ":statue_of_liberty:"
+  },
+  {
+    "phrase": "🏠",
+    "replacement": ":house:"
+  },
+  {
+    "phrase": "🏡",
+    "replacement": ":house_with_garden:"
+  },
+  {
+    "phrase": "🏚",
+    "replacement": ":derelict_house:"
+  },
+  {
+    "phrase": "🏢",
+    "replacement": ":office:"
+  },
+  {
+    "phrase": "🏬",
+    "replacement": ":department_store:"
+  },
+  {
+    "phrase": "🏣",
+    "replacement": ":post_office:"
+  },
+  {
+    "phrase": "🏤",
+    "replacement": ":european_post_office:"
+  },
+  {
+    "phrase": "🏥",
+    "replacement": ":hospital:"
+  },
+  {
+    "phrase": "🏦",
+    "replacement": ":bank:"
+  },
+  {
+    "phrase": "🏨",
+    "replacement": ":hotel:"
+  },
+  {
+    "phrase": "🏪",
+    "replacement": ":convenience_store:"
+  },
+  {
+    "phrase": "🏫",
+    "replacement": ":school:"
+  },
+  {
+    "phrase": "🏩",
+    "replacement": ":love_hotel:"
+  },
+  {
+    "phrase": "💒",
+    "replacement": ":wedding:"
+  },
+  {
+    "phrase": "🏛",
+    "replacement": ":museum:"
+  },
+  {
+    "phrase": "⛪",
+    "replacement": ":church:"
+  },
+  {
+    "phrase": "🕌",
+    "replacement": ":mosque:"
+  },
+  {
+    "phrase": "🕍",
+    "replacement": ":synagogue:"
+  },
+  {
+    "phrase": "🕋",
+    "replacement": ":kaaba:"
+  },
+  {
+    "phrase": "⛩",
+    "replacement": ":shinto_shrine:"
+  },
+  {
+    "phrase": "⌚",
+    "replacement": ":watch:"
+  },
+  {
+    "phrase": "📱",
+    "replacement": ":iphone:"
+  },
+  {
+    "phrase": "📲",
+    "replacement": ":calling:"
+  },
+  {
+    "phrase": "💻",
+    "replacement": ":computer:"
+  },
+  {
+    "phrase": "⌨",
+    "replacement": ":keyboard:"
+  },
+  {
+    "phrase": "🖥",
+    "replacement": ":desktop_computer:"
+  },
+  {
+    "phrase": "🖨",
+    "replacement": ":printer:"
+  },
+  {
+    "phrase": "🖱",
+    "replacement": ":three_button_mouse:"
+  },
+  {
+    "phrase": "🖲",
+    "replacement": ":trackball:"
+  },
+  {
+    "phrase": "🕹",
+    "replacement": ":joystick:"
+  },
+  {
+    "phrase": "🗜",
+    "replacement": ":compression:"
+  },
+  {
+    "phrase": "💽",
+    "replacement": ":minidisc:"
+  },
+  {
+    "phrase": "💾",
+    "replacement": ":floppy_disk:"
+  },
+  {
+    "phrase": "💿",
+    "replacement": ":cd:"
+  },
+  {
+    "phrase": "📀",
+    "replacement": ":dvd:"
+  },
+  {
+    "phrase": "📼",
+    "replacement": ":vhs:"
+  },
+  {
+    "phrase": "📷",
+    "replacement": ":camera:"
+  },
+  {
+    "phrase": "📸",
+    "replacement": ":camera_with_flash:"
+  },
+  {
+    "phrase": "📹",
+    "replacement": ":video_camera:"
+  },
+  {
+    "phrase": "🎥",
+    "replacement": ":movie_camera:"
+  },
+  {
+    "phrase": "📽",
+    "replacement": ":film_projector:"
+  },
+  {
+    "phrase": "🎞",
+    "replacement": ":film_frames:"
+  },
+  {
+    "phrase": "📞",
+    "replacement": ":telephone_receiver:"
+  },
+  {
+    "phrase": "☎️",
+    "replacement": ":phone:"
+  },
+  {
+    "phrase": "📟",
+    "replacement": ":pager:"
+  },
+  {
+    "phrase": "📠",
+    "replacement": ":fax:"
+  },
+  {
+    "phrase": "📺",
+    "replacement": ":tv:"
+  },
+  {
+    "phrase": "📻",
+    "replacement": ":radio:"
+  },
+  {
+    "phrase": "🎙",
+    "replacement": ":studio_microphone:"
+  },
+  {
+    "phrase": "🎚",
+    "replacement": ":level_slider:"
+  },
+  {
+    "phrase": "🎛",
+    "replacement": ":control_knobs:"
+  },
+  {
+    "phrase": "⏱",
+    "replacement": ":stopwatch:"
+  },
+  {
+    "phrase": "⏲",
+    "replacement": ":timer_clock:"
+  },
+  {
+    "phrase": "⏰",
+    "replacement": ":alarm_clock:"
+  },
+  {
+    "phrase": "🕰",
+    "replacement": ":mantelpiece_clock:"
+  },
+  {
+    "phrase": "⏳",
+    "replacement": ":hourglass_flowing_sand:"
+  },
+  {
+    "phrase": "⌛",
+    "replacement": ":hourglass:"
+  },
+  {
+    "phrase": "📡",
+    "replacement": ":satellite:"
+  },
+  {
+    "phrase": "🔋",
+    "replacement": ":battery:"
+  },
+  {
+    "phrase": "🔌",
+    "replacement": ":electric_plug:"
+  },
+  {
+    "phrase": "💡",
+    "replacement": ":bulb:"
+  },
+  {
+    "phrase": "🔦",
+    "replacement": ":flashlight:"
+  },
+  {
+    "phrase": "🕯",
+    "replacement": ":candle:"
+  },
+  {
+    "phrase": "🗑",
+    "replacement": ":wastebasket:"
+  },
+  {
+    "phrase": "🛢",
+    "replacement": ":oil_drum:"
+  },
+  {
+    "phrase": "💸",
+    "replacement": ":money_with_wings:"
+  },
+  {
+    "phrase": "💵",
+    "replacement": ":dollar:"
+  },
+  {
+    "phrase": "💴",
+    "replacement": ":yen:"
+  },
+  {
+    "phrase": "💶",
+    "replacement": ":euro:"
+  },
+  {
+    "phrase": "💷",
+    "replacement": ":pound:"
+  },
+  {
+    "phrase": "💰",
+    "replacement": ":moneybag:"
+  },
+  {
+    "phrase": "💳",
+    "replacement": ":credit_card:"
+  },
+  {
+    "phrase": "💎",
+    "replacement": ":gem:"
+  },
+  {
+    "phrase": "⚖",
+    "replacement": ":scales:"
+  },
+  {
+    "phrase": "🔧",
+    "replacement": ":wrench:"
+  },
+  {
+    "phrase": "🔨",
+    "replacement": ":hammer:"
+  },
+  {
+    "phrase": "⚒",
+    "replacement": ":hammer_and_pick:"
+  },
+  {
+    "phrase": "🛠",
+    "replacement": ":hammer_and_wrench:"
+  },
+  {
+    "phrase": "⛏",
+    "replacement": ":pick:"
+  },
+  {
+    "phrase": "🔩",
+    "replacement": ":nut_and_bolt:"
+  },
+  {
+    "phrase": "⚙",
+    "replacement": ":gear:"
+  },
+  {
+    "phrase": "⛓",
+    "replacement": ":chains:"
+  },
+  {
+    "phrase": "🔫",
+    "replacement": ":gun:"
+  },
+  {
+    "phrase": "💣",
+    "replacement": ":bomb:"
+  },
+  {
+    "phrase": "🔪",
+    "replacement": ":hocho:"
+  },
+  {
+    "phrase": "🗡",
+    "replacement": ":dagger_knife:"
+  },
+  {
+    "phrase": "⚔",
+    "replacement": ":crossed_swords:"
+  },
+  {
+    "phrase": "🛡",
+    "replacement": ":shield:"
+  },
+  {
+    "phrase": "🚬",
+    "replacement": ":smoking:"
+  },
+  {
+    "phrase": "☠",
+    "replacement": ":skull_and_crossbones:"
+  },
+  {
+    "phrase": "⚰",
+    "replacement": ":coffin:"
+  },
+  {
+    "phrase": "⚱",
+    "replacement": ":funeral_urn:"
+  },
+  {
+    "phrase": "🏺",
+    "replacement": ":amphora:"
+  },
+  {
+    "phrase": "🔮",
+    "replacement": ":crystal_ball:"
+  },
+  {
+    "phrase": "📿",
+    "replacement": ":prayer_beads:"
+  },
+  {
+    "phrase": "💈",
+    "replacement": ":barber:"
+  },
+  {
+    "phrase": "⚗",
+    "replacement": ":alembic:"
+  },
+  {
+    "phrase": "🔭",
+    "replacement": ":telescope:"
+  },
+  {
+    "phrase": "🔬",
+    "replacement": ":microscope:"
+  },
+  {
+    "phrase": "🕳",
+    "replacement": ":hole:"
+  },
+  {
+    "phrase": "💊",
+    "replacement": ":pill:"
+  },
+  {
+    "phrase": "💉",
+    "replacement": ":syringe:"
+  },
+  {
+    "phrase": "🌡",
+    "replacement": ":thermometer:"
+  },
+  {
+    "phrase": "🏷",
+    "replacement": ":label:"
+  },
+  {
+    "phrase": "🔖",
+    "replacement": ":bookmark:"
+  },
+  {
+    "phrase": "🚽",
+    "replacement": ":toilet:"
+  },
+  {
+    "phrase": "🚿",
+    "replacement": ":shower:"
+  },
+  {
+    "phrase": "🛁",
+    "replacement": ":bathtub:"
+  },
+  {
+    "phrase": "🔑",
+    "replacement": ":key:"
+  },
+  {
+    "phrase": "🗝",
+    "replacement": ":old_key:"
+  },
+  {
+    "phrase": "🛋",
+    "replacement": ":couch_and_lamp:"
+  },
+  {
+    "phrase": "🛌",
+    "replacement": ":sleeping_accommodation:"
+  },
+  {
+    "phrase": "🛏",
+    "replacement": ":bed:"
+  },
+  {
+    "phrase": "🚪",
+    "replacement": ":door:"
+  },
+  {
+    "phrase": "🛎",
+    "replacement": ":bellhop_bell:"
+  },
+  {
+    "phrase": "🖼",
+    "replacement": ":frame_with_picture:"
+  },
+  {
+    "phrase": "🗺",
+    "replacement": ":world_map:"
+  },
+  {
+    "phrase": "⛱",
+    "replacement": ":umbrella_on_ground:"
+  },
+  {
+    "phrase": "🗿",
+    "replacement": ":moyai:"
+  },
+  {
+    "phrase": "🛍",
+    "replacement": ":shopping_bags:"
+  },
+  {
+    "phrase": "🎈",
+    "replacement": ":balloon:"
+  },
+  {
+    "phrase": "🎏",
+    "replacement": ":flags:"
+  },
+  {
+    "phrase": "🎀",
+    "replacement": ":ribbon:"
+  },
+  {
+    "phrase": "🎁",
+    "replacement": ":gift:"
+  },
+  {
+    "phrase": "🎊",
+    "replacement": ":confetti_ball:"
+  },
+  {
+    "phrase": "🎉",
+    "replacement": ":tada:"
+  },
+  {
+    "phrase": "🎎",
+    "replacement": ":dolls:"
+  },
+  {
+    "phrase": "🎐",
+    "replacement": ":wind_chime:"
+  },
+  {
+    "phrase": "🎌",
+    "replacement": ":crossed_flags:"
+  },
+  {
+    "phrase": "🏮",
+    "replacement": ":izakaya_lantern:"
+  },
+  {
+    "phrase": "✉️",
+    "replacement": ":envelope:"
+  },
+  {
+    "phrase": "📩",
+    "replacement": ":envelope_with_arrow:"
+  },
+  {
+    "phrase": "📨",
+    "replacement": ":incoming_envelope:"
+  },
+  {
+    "phrase": "📧",
+    "replacement": ":email:"
+  },
+  {
+    "phrase": "💌",
+    "replacement": ":love_letter:"
+  },
+  {
+    "phrase": "📮",
+    "replacement": ":postbox:"
+  },
+  {
+    "phrase": "📪",
+    "replacement": ":mailbox_closed:"
+  },
+  {
+    "phrase": "📫",
+    "replacement": ":mailbox:"
+  },
+  {
+    "phrase": "📬",
+    "replacement": ":mailbox_with_mail:"
+  },
+  {
+    "phrase": "📭",
+    "replacement": ":mailbox_with_no_mail:"
+  },
+  {
+    "phrase": "📦",
+    "replacement": ":package:"
+  },
+  {
+    "phrase": "📯",
+    "replacement": ":postal_horn:"
+  },
+  {
+    "phrase": "📥",
+    "replacement": ":inbox_tray:"
+  },
+  {
+    "phrase": "📤",
+    "replacement": ":outbox_tray:"
+  },
+  {
+    "phrase": "📜",
+    "replacement": ":scroll:"
+  },
+  {
+    "phrase": "📃",
+    "replacement": ":page_with_curl:"
+  },
+  {
+    "phrase": "📑",
+    "replacement": ":bookmark_tabs:"
+  },
+  {
+    "phrase": "📊",
+    "replacement": ":bar_chart:"
+  },
+  {
+    "phrase": "📈",
+    "replacement": ":chart_with_upwards_trend:"
+  },
+  {
+    "phrase": "📉",
+    "replacement": ":chart_with_downwards_trend:"
+  },
+  {
+    "phrase": "📄",
+    "replacement": ":page_facing_up:"
+  },
+  {
+    "phrase": "📅",
+    "replacement": ":date:"
+  },
+  {
+    "phrase": "📆",
+    "replacement": ":calendar:"
+  },
+  {
+    "phrase": "🗓",
+    "replacement": ":spiral_calendar_pad:"
+  },
+  {
+    "phrase": "📇",
+    "replacement": ":card_index:"
+  },
+  {
+    "phrase": "🗃",
+    "replacement": ":card_file_box:"
+  },
+  {
+    "phrase": "🗳",
+    "replacement": ":ballot_box_with_ballot:"
+  },
+  {
+    "phrase": "🗄",
+    "replacement": ":file_cabinet:"
+  },
+  {
+    "phrase": "📋",
+    "replacement": ":clipboard:"
+  },
+  {
+    "phrase": "🗒",
+    "replacement": ":spiral_note_pad:"
+  },
+  {
+    "phrase": "📁",
+    "replacement": ":file_folder:"
+  },
+  {
+    "phrase": "📂",
+    "replacement": ":open_file_folder:"
+  },
+  {
+    "phrase": "🗂",
+    "replacement": ":card_index_dividers:"
+  },
+  {
+    "phrase": "🗞",
+    "replacement": ":rolled_up_newspaper:"
+  },
+  {
+    "phrase": "📰",
+    "replacement": ":newspaper:"
+  },
+  {
+    "phrase": "📓",
+    "replacement": ":notebook:"
+  },
+  {
+    "phrase": "📕",
+    "replacement": ":closed_book:"
+  },
+  {
+    "phrase": "📗",
+    "replacement": ":green_book:"
+  },
+  {
+    "phrase": "📘",
+    "replacement": ":blue_book:"
+  },
+  {
+    "phrase": "📙",
+    "replacement": ":orange_book:"
+  },
+  {
+    "phrase": "📔",
+    "replacement": ":notebook_with_decorative_cover:"
+  },
+  {
+    "phrase": "📒",
+    "replacement": ":ledger:"
+  },
+  {
+    "phrase": "📚",
+    "replacement": ":books:"
+  },
+  {
+    "phrase": "📖",
+    "replacement": ":book:"
+  },
+  {
+    "phrase": "🔗",
+    "replacement": ":link:"
+  },
+  {
+    "phrase": "📎",
+    "replacement": ":paperclip:"
+  },
+  {
+    "phrase": "🖇",
+    "replacement": ":linked_paperclips:"
+  },
+  {
+    "phrase": "✂️",
+    "replacement": ":scissors:"
+  },
+  {
+    "phrase": "📐",
+    "replacement": ":triangular_ruler:"
+  },
+  {
+    "phrase": "📏",
+    "replacement": ":straight_ruler:"
+  },
+  {
+    "phrase": "📌",
+    "replacement": ":pushpin:"
+  },
+  {
+    "phrase": "📍",
+    "replacement": ":round_pushpin:"
+  },
+  {
+    "phrase": "🚩",
+    "replacement": ":triangular_flag_on_post:"
+  },
+  {
+    "phrase": "🏳",
+    "replacement": ":waving_white_flag:"
+  },
+  {
+    "phrase": "🏴",
+    "replacement": ":waving_black_flag:"
+  },
+  {
+    "phrase": "🔐",
+    "replacement": ":closed_lock_with_key:"
+  },
+  {
+    "phrase": "🔒",
+    "replacement": ":lock:"
+  },
+  {
+    "phrase": "🔓",
+    "replacement": ":unlock:"
+  },
+  {
+    "phrase": "🔏",
+    "replacement": ":lock_with_ink_pen:"
+  },
+  {
+    "phrase": "🖊",
+    "replacement": ":lower_left_ballpoint_pen:"
+  },
+  {
+    "phrase": "🖋",
+    "replacement": ":lower_left_fountain_pen:"
+  },
+  {
+    "phrase": "✒️",
+    "replacement": ":black_nib:"
+  },
+  {
+    "phrase": "📝",
+    "replacement": ":memo:"
+  },
+  {
+    "phrase": "✏️",
+    "replacement": ":pencil2:"
+  },
+  {
+    "phrase": "🖍",
+    "replacement": ":lower_left_crayon:"
+  },
+  {
+    "phrase": "🖌",
+    "replacement": ":lower_left_paintbrush:"
+  },
+  {
+    "phrase": "🔍",
+    "replacement": ":mag:"
+  },
+  {
+    "phrase": "🔎",
+    "replacement": ":mag_right:"
+  },
+  {
+    "phrase": "❤️",
+    "replacement": ":heart:"
+  },
+  {
+    "phrase": "💛",
+    "replacement": ":yellow_heart:"
+  },
+  {
+    "phrase": "💚",
+    "replacement": ":green_heart:"
+  },
+  {
+    "phrase": "💙",
+    "replacement": ":blue_heart:"
+  },
+  {
+    "phrase": "💜",
+    "replacement": ":purple_heart:"
+  },
+  {
+    "phrase": "💔",
+    "replacement": ":broken_heart:"
+  },
+  {
+    "phrase": "❣",
+    "replacement": ":heavy_heart_exclamation_mark_ornament:"
+  },
+  {
+    "phrase": "💕",
+    "replacement": ":two_hearts:"
+  },
+  {
+    "phrase": "💞",
+    "replacement": ":revolving_hearts:"
+  },
+  {
+    "phrase": "💓",
+    "replacement": ":heartbeat:"
+  },
+  {
+    "phrase": "💗",
+    "replacement": ":heartpulse:"
+  },
+  {
+    "phrase": "💖",
+    "replacement": ":sparkling_heart:"
+  },
+  {
+    "phrase": "💘",
+    "replacement": ":cupid:"
+  },
+  {
+    "phrase": "💝",
+    "replacement": ":gift_heart:"
+  },
+  {
+    "phrase": "💟",
+    "replacement": ":heart_decoration:"
+  },
+  {
+    "phrase": "☮",
+    "replacement": ":peace_symbol:"
+  },
+  {
+    "phrase": "✝",
+    "replacement": ":latin_cross:"
+  },
+  {
+    "phrase": "☪",
+    "replacement": ":star_and_crescent:"
+  },
+  {
+    "phrase": "🕉",
+    "replacement": ":om_symbol:"
+  },
+  {
+    "phrase": "☸",
+    "replacement": ":wheel_of_dharma:"
+  },
+  {
+    "phrase": "✡",
+    "replacement": ":star_of_david:"
+  },
+  {
+    "phrase": "🔯",
+    "replacement": ":six_pointed_star:"
+  },
+  {
+    "phrase": "🕎",
+    "replacement": ":menorah_with_nine_branches:"
+  },
+  {
+    "phrase": "☯",
+    "replacement": ":yin_yang:"
+  },
+  {
+    "phrase": "☦",
+    "replacement": ":orthodox_cross:"
+  },
+  {
+    "phrase": "🛐",
+    "replacement": ":place_of_worship:"
+  },
+  {
+    "phrase": "⛎",
+    "replacement": ":ophiuchus:"
+  },
+  {
+    "phrase": "♈",
+    "replacement": ":aries:"
+  },
+  {
+    "phrase": "♉",
+    "replacement": ":taurus:"
+  },
+  {
+    "phrase": "♊",
+    "replacement": ":gemini:"
+  },
+  {
+    "phrase": "♋",
+    "replacement": ":cancer:"
+  },
+  {
+    "phrase": "♌",
+    "replacement": ":leo:"
+  },
+  {
+    "phrase": "♍",
+    "replacement": ":virgo:"
+  },
+  {
+    "phrase": "♎",
+    "replacement": ":libra:"
+  },
+  {
+    "phrase": "♏",
+    "replacement": ":scorpius:"
+  },
+  {
+    "phrase": "♐",
+    "replacement": ":sagittarius:"
+  },
+  {
+    "phrase": "♑",
+    "replacement": ":capricorn:"
+  },
+  {
+    "phrase": "♒",
+    "replacement": ":aquarius:"
+  },
+  {
+    "phrase": "♓",
+    "replacement": ":pisces:"
+  },
+  {
+    "phrase": "🆔",
+    "replacement": ":id:"
+  },
+  {
+    "phrase": "⚛",
+    "replacement": ":atom_symbol:"
+  },
+  {
+    "phrase": "🈳",
+    "replacement": ":u7a7a:"
+  },
+  {
+    "phrase": "🈹",
+    "replacement": ":u5272:"
+  },
+  {
+    "phrase": "☢",
+    "replacement": ":radioactive_sign:"
+  },
+  {
+    "phrase": "☣",
+    "replacement": ":biohazard_sign:"
+  },
+  {
+    "phrase": "📴",
+    "replacement": ":mobile_phone_off:"
+  },
+  {
+    "phrase": "📳",
+    "replacement": ":vibration_mode:"
+  },
+  {
+    "phrase": "🈶",
+    "replacement": ":u6709:"
+  },
+  {
+    "phrase": "🈚",
+    "replacement": ":u7121:"
+  },
+  {
+    "phrase": "🈸",
+    "replacement": ":u7533:"
+  },
+  {
+    "phrase": "🈺",
+    "replacement": ":u55b6:"
+  },
+  {
+    "phrase": "🈷️",
+    "replacement": ":u6708:"
+  },
+  {
+    "phrase": "✴️",
+    "replacement": ":eight_pointed_black_star:"
+  },
+  {
+    "phrase": "🆚",
+    "replacement": ":vs:"
+  },
+  {
+    "phrase": "🉑",
+    "replacement": ":accept:"
+  },
+  {
+    "phrase": "💮",
+    "replacement": ":white_flower:"
+  },
+  {
+    "phrase": "🉐",
+    "replacement": ":ideograph_advantage:"
+  },
+  {
+    "phrase": "㊙️",
+    "replacement": ":secret:"
+  },
+  {
+    "phrase": "㊗️",
+    "replacement": ":congratulations:"
+  },
+  {
+    "phrase": "🈴",
+    "replacement": ":u5408:"
+  },
+  {
+    "phrase": "🈵",
+    "replacement": ":u6e80:"
+  },
+  {
+    "phrase": "🈲",
+    "replacement": ":u7981:"
+  },
+  {
+    "phrase": "🅰️",
+    "replacement": ":a:"
+  },
+  {
+    "phrase": "🅱️",
+    "replacement": ":b:"
+  },
+  {
+    "phrase": "🆎",
+    "replacement": ":ab:"
+  },
+  {
+    "phrase": "🆑",
+    "replacement": ":cl:"
+  },
+  {
+    "phrase": "🅾️",
+    "replacement": ":o2:"
+  },
+  {
+    "phrase": "🆘",
+    "replacement": ":sos:"
+  },
+  {
+    "phrase": "⛔",
+    "replacement": ":no_entry:"
+  },
+  {
+    "phrase": "📛",
+    "replacement": ":name_badge:"
+  },
+  {
+    "phrase": "🚫",
+    "replacement": ":no_entry_sign:"
+  },
+  {
+    "phrase": "❌",
+    "replacement": ":x:"
+  },
+  {
+    "phrase": "⭕",
+    "replacement": ":o:"
+  },
+  {
+    "phrase": "💢",
+    "replacement": ":anger:"
+  },
+  {
+    "phrase": "♨️",
+    "replacement": ":hotsprings:"
+  },
+  {
+    "phrase": "🚷",
+    "replacement": ":no_pedestrians:"
+  },
+  {
+    "phrase": "🚯",
+    "replacement": ":do_not_litter:"
+  },
+  {
+    "phrase": "🚳",
+    "replacement": ":no_bicycles:"
+  },
+  {
+    "phrase": "🚱",
+    "replacement": ":non-potable_water:"
+  },
+  {
+    "phrase": "🔞",
+    "replacement": ":underage:"
+  },
+  {
+    "phrase": "📵",
+    "replacement": ":no_mobile_phones:"
+  },
+  {
+    "phrase": "❗",
+    "replacement": ":exclamation:"
+  },
+  {
+    "phrase": "❕",
+    "replacement": ":grey_exclamation:"
+  },
+  {
+    "phrase": "❓",
+    "replacement": ":question:"
+  },
+  {
+    "phrase": "❔",
+    "replacement": ":grey_question:"
+  },
+  {
+    "phrase": "‼️",
+    "replacement": ":bangbang:"
+  },
+  {
+    "phrase": "⁉️",
+    "replacement": ":interrobang:"
+  },
+  {
+    "phrase": "🔅",
+    "replacement": ":low_brightness:"
+  },
+  {
+    "phrase": "🔆",
+    "replacement": ":high_brightness:"
+  },
+  {
+    "phrase": "🔱",
+    "replacement": ":trident:"
+  },
+  {
+    "phrase": "⚜",
+    "replacement": ":fleur_de_lis:"
+  },
+  {
+    "phrase": "〽️",
+    "replacement": ":part_alternation_mark:"
+  },
+  {
+    "phrase": "⚠️",
+    "replacement": ":warning:"
+  },
+  {
+    "phrase": "🚸",
+    "replacement": ":children_crossing:"
+  },
+  {
+    "phrase": "🔰",
+    "replacement": ":beginner:"
+  },
+  {
+    "phrase": "♻️",
+    "replacement": ":recycle:"
+  },
+  {
+    "phrase": "🈯",
+    "replacement": ":u6307:"
+  },
+  {
+    "phrase": "💹",
+    "replacement": ":chart:"
+  },
+  {
+    "phrase": "❇️",
+    "replacement": ":sparkle:"
+  },
+  {
+    "phrase": "✳️",
+    "replacement": ":eight_spoked_asterisk:"
+  },
+  {
+    "phrase": "❎",
+    "replacement": ":negative_squared_cross_mark:"
+  },
+  {
+    "phrase": "✅",
+    "replacement": ":white_check_mark:"
+  },
+  {
+    "phrase": "💠",
+    "replacement": ":diamond_shape_with_a_dot_inside:"
+  },
+  {
+    "phrase": "🌀",
+    "replacement": ":cyclone:"
+  },
+  {
+    "phrase": "➿",
+    "replacement": ":loop:"
+  },
+  {
+    "phrase": "🌐",
+    "replacement": ":globe_with_meridians:"
+  },
+  {
+    "phrase": "Ⓜ️",
+    "replacement": ":m:"
+  },
+  {
+    "phrase": "🏧",
+    "replacement": ":atm:"
+  },
+  {
+    "phrase": "🈂️",
+    "replacement": ":sa:"
+  },
+  {
+    "phrase": "🛂",
+    "replacement": ":passport_control:"
+  },
+  {
+    "phrase": "🛃",
+    "replacement": ":customs:"
+  },
+  {
+    "phrase": "🛄",
+    "replacement": ":baggage_claim:"
+  },
+  {
+    "phrase": "🛅",
+    "replacement": ":left_luggage:"
+  },
+  {
+    "phrase": "♿",
+    "replacement": ":wheelchair:"
+  },
+  {
+    "phrase": "🚭",
+    "replacement": ":no_smoking:"
+  },
+  {
+    "phrase": "🚾",
+    "replacement": ":wc:"
+  },
+  {
+    "phrase": "🅿️",
+    "replacement": ":parking:"
+  },
+  {
+    "phrase": "🚰",
+    "replacement": ":potable_water:"
+  },
+  {
+    "phrase": "🚹",
+    "replacement": ":mens:"
+  },
+  {
+    "phrase": "🚺",
+    "replacement": ":womens:"
+  },
+  {
+    "phrase": "🚼",
+    "replacement": ":baby_symbol:"
+  },
+  {
+    "phrase": "🚻",
+    "replacement": ":restroom:"
+  },
+  {
+    "phrase": "🚮",
+    "replacement": ":put_litter_in_its_place:"
+  },
+  {
+    "phrase": "🎦",
+    "replacement": ":cinema:"
+  },
+  {
+    "phrase": "📶",
+    "replacement": ":signal_strength:"
+  },
+  {
+    "phrase": "🈁",
+    "replacement": ":koko:"
+  },
+  {
+    "phrase": "🆖",
+    "replacement": ":ng:"
+  },
+  {
+    "phrase": "🆗",
+    "replacement": ":ok:"
+  },
+  {
+    "phrase": "🆙",
+    "replacement": ":up:"
+  },
+  {
+    "phrase": "🆒",
+    "replacement": ":cool:"
+  },
+  {
+    "phrase": "🆕",
+    "replacement": ":new:"
+  },
+  {
+    "phrase": "🆓",
+    "replacement": ":free:"
+  },
+  {
+    "phrase": "0️⃣",
+    "replacement": ":zero:"
+  },
+  {
+    "phrase": "1️⃣",
+    "replacement": ":one:"
+  },
+  {
+    "phrase": "2️⃣",
+    "replacement": ":two:"
+  },
+  {
+    "phrase": "3️⃣",
+    "replacement": ":three:"
+  },
+  {
+    "phrase": "4️⃣",
+    "replacement": ":four:"
+  },
+  {
+    "phrase": "5️⃣",
+    "replacement": ":five:"
+  },
+  {
+    "phrase": "6️⃣",
+    "replacement": ":six:"
+  },
+  {
+    "phrase": "7️⃣",
+    "replacement": ":seven:"
+  },
+  {
+    "phrase": "8️⃣",
+    "replacement": ":eight:"
+  },
+  {
+    "phrase": "9️⃣",
+    "replacement": ":nine:"
+  },
+  {
+    "phrase": "🔟",
+    "replacement": ":keycap_ten:"
+  },
+  {
+    "phrase": "*⃣",
+    "replacement": ":keycap_star:"
+  },
+  {
+    "phrase": "▶️",
+    "replacement": ":arrow_forward:"
+  },
+  {
+    "phrase": "⏸",
+    "replacement": ":double_vertical_bar:"
+  },
+  {
+    "phrase": "⏭",
+    "replacement": ":black_right_pointing_triangle_with_double_vertical_bar:"
+  },
+  {
+    "phrase": "⏹",
+    "replacement": ":black_square_for_stop:"
+  },
+  {
+    "phrase": "⏺",
+    "replacement": ":black_circle_for_record:"
+  },
+  {
+    "phrase": "⏯",
+    "replacement": ":black_right_pointing_double_triangle_with_vertical_bar:"
+  },
+  {
+    "phrase": "⏮",
+    "replacement": ":black_left_pointing_double_triangle_with_vertical_bar:"
+  },
+  {
+    "phrase": "⏩",
+    "replacement": ":fast_forward:"
+  },
+  {
+    "phrase": "⏪",
+    "replacement": ":rewind:"
+  },
+  {
+    "phrase": "🔀",
+    "replacement": ":twisted_rightwards_arrows:"
+  },
+  {
+    "phrase": "🔁",
+    "replacement": ":repeat:"
+  },
+  {
+    "phrase": "🔂",
+    "replacement": ":repeat_one:"
+  },
+  {
+    "phrase": "◀️",
+    "replacement": ":arrow_backward:"
+  },
+  {
+    "phrase": "🔼",
+    "replacement": ":arrow_up_small:"
+  },
+  {
+    "phrase": "🔽",
+    "replacement": ":arrow_down_small:"
+  },
+  {
+    "phrase": "⏫",
+    "replacement": ":arrow_double_up:"
+  },
+  {
+    "phrase": "⏬",
+    "replacement": ":arrow_double_down:"
+  },
+  {
+    "phrase": "➡️",
+    "replacement": ":arrow_right:"
+  },
+  {
+    "phrase": "⬅️",
+    "replacement": ":arrow_left:"
+  },
+  {
+    "phrase": "⬆️",
+    "replacement": ":arrow_up:"
+  },
+  {
+    "phrase": "⬇️",
+    "replacement": ":arrow_down:"
+  },
+  {
+    "phrase": "↗️",
+    "replacement": ":arrow_upper_right:"
+  },
+  {
+    "phrase": "↘️",
+    "replacement": ":arrow_lower_right:"
+  },
+  {
+    "phrase": "↙️",
+    "replacement": ":arrow_lower_left:"
+  },
+  {
+    "phrase": "↖️",
+    "replacement": ":arrow_upper_left:"
+  },
+  {
+    "phrase": "↕️",
+    "replacement": ":arrow_up_down:"
+  },
+  {
+    "phrase": "↔️",
+    "replacement": ":left_right_arrow:"
+  },
+  {
+    "phrase": "🔄",
+    "replacement": ":arrows_counterclockwise:"
+  },
+  {
+    "phrase": "↪️",
+    "replacement": ":arrow_right_hook:"
+  },
+  {
+    "phrase": "↩️",
+    "replacement": ":leftwards_arrow_with_hook:"
+  },
+  {
+    "phrase": "⤴️",
+    "replacement": ":arrow_heading_up:"
+  },
+  {
+    "phrase": "⤵️",
+    "replacement": ":arrow_heading_down:"
+  },
+  {
+    "phrase": "#️⃣",
+    "replacement": ":hash:"
+  },
+  {
+    "phrase": "ℹ️",
+    "replacement": ":information_source:"
+  },
+  {
+    "phrase": "🔤",
+    "replacement": ":abc:"
+  },
+  {
+    "phrase": "🔡",
+    "replacement": ":abcd:"
+  },
+  {
+    "phrase": "🔠",
+    "replacement": ":capital_abcd:"
+  },
+  {
+    "phrase": "🔣",
+    "replacement": ":symbols:"
+  },
+  {
+    "phrase": "🎵",
+    "replacement": ":musical_note:"
+  },
+  {
+    "phrase": "🎶",
+    "replacement": ":notes:"
+  },
+  {
+    "phrase": "〰️",
+    "replacement": ":wavy_dash:"
+  },
+  {
+    "phrase": "➰",
+    "replacement": ":curly_loop:"
+  },
+  {
+    "phrase": "✔️",
+    "replacement": ":heavy_check_mark:"
+  },
+  {
+    "phrase": "🔃",
+    "replacement": ":arrows_clockwise:"
+  },
+  {
+    "phrase": "➕",
+    "replacement": ":heavy_plus_sign:"
+  },
+  {
+    "phrase": "➖",
+    "replacement": ":heavy_minus_sign:"
+  },
+  {
+    "phrase": "➗",
+    "replacement": ":heavy_division_sign:"
+  },
+  {
+    "phrase": "✖️",
+    "replacement": ":heavy_multiplication_x:"
+  },
+  {
+    "phrase": "💲",
+    "replacement": ":heavy_dollar_sign:"
+  },
+  {
+    "phrase": "💱",
+    "replacement": ":currency_exchange:"
+  },
+  {
+    "phrase": "©️",
+    "replacement": ":copyright:"
+  },
+  {
+    "phrase": "®️",
+    "replacement": ":registered:"
+  },
+  {
+    "phrase": "™️",
+    "replacement": ":tm:"
+  },
+  {
+    "phrase": "🔚",
+    "replacement": ":end:"
+  },
+  {
+    "phrase": "🔙",
+    "replacement": ":back:"
+  },
+  {
+    "phrase": "🔛",
+    "replacement": ":on:"
+  },
+  {
+    "phrase": "🔝",
+    "replacement": ":top:"
+  },
+  {
+    "phrase": "🔜",
+    "replacement": ":soon:"
+  },
+  {
+    "phrase": "☑️",
+    "replacement": ":ballot_box_with_check:"
+  },
+  {
+    "phrase": "🔘",
+    "replacement": ":radio_button:"
+  },
+  {
+    "phrase": "⚪",
+    "replacement": ":white_circle:"
+  },
+  {
+    "phrase": "⚫",
+    "replacement": ":black_circle:"
+  },
+  {
+    "phrase": "🔴",
+    "replacement": ":red_circle:"
+  },
+  {
+    "phrase": "🔵",
+    "replacement": ":large_blue_circle:"
+  },
+  {
+    "phrase": "🔸",
+    "replacement": ":small_orange_diamond:"
+  },
+  {
+    "phrase": "🔹",
+    "replacement": ":small_blue_diamond:"
+  },
+  {
+    "phrase": "🔶",
+    "replacement": ":large_orange_diamond:"
+  },
+  {
+    "phrase": "🔷",
+    "replacement": ":large_blue_diamond:"
+  },
+  {
+    "phrase": "🔺",
+    "replacement": ":small_red_triangle:"
+  },
+  {
+    "phrase": "▪️",
+    "replacement": ":black_small_square:"
+  },
+  {
+    "phrase": "▫️",
+    "replacement": ":white_small_square:"
+  },
+  {
+    "phrase": "⬛",
+    "replacement": ":black_large_square:"
+  },
+  {
+    "phrase": "⬜",
+    "replacement": ":white_large_square:"
+  },
+  {
+    "phrase": "🔻",
+    "replacement": ":small_red_triangle_down:"
+  },
+  {
+    "phrase": "◼️",
+    "replacement": ":black_medium_square:"
+  },
+  {
+    "phrase": "◻️",
+    "replacement": ":white_medium_square:"
+  },
+  {
+    "phrase": "◾",
+    "replacement": ":black_medium_small_square:"
+  },
+  {
+    "phrase": "◽",
+    "replacement": ":white_medium_small_square:"
+  },
+  {
+    "phrase": "🔲",
+    "replacement": ":black_square_button:"
+  },
+  {
+    "phrase": "🔳",
+    "replacement": ":white_square_button:"
+  },
+  {
+    "phrase": "🔈",
+    "replacement": ":speaker:"
+  },
+  {
+    "phrase": "🔉",
+    "replacement": ":sound:"
+  },
+  {
+    "phrase": "🔊",
+    "replacement": ":loud_sound:"
+  },
+  {
+    "phrase": "🔇",
+    "replacement": ":mute:"
+  },
+  {
+    "phrase": "📣",
+    "replacement": ":mega:"
+  },
+  {
+    "phrase": "📢",
+    "replacement": ":loudspeaker:"
+  },
+  {
+    "phrase": "🔔",
+    "replacement": ":bell:"
+  },
+  {
+    "phrase": "🔕",
+    "replacement": ":no_bell:"
+  },
+  {
+    "phrase": "🃏",
+    "replacement": ":black_joker:"
+  },
+  {
+    "phrase": "🀄",
+    "replacement": ":mahjong:"
+  },
+  {
+    "phrase": "♠️",
+    "replacement": ":spades:"
+  },
+  {
+    "phrase": "♣️",
+    "replacement": ":clubs:"
+  },
+  {
+    "phrase": "♥️",
+    "replacement": ":hearts:"
+  },
+  {
+    "phrase": "♦️",
+    "replacement": ":diamonds:"
+  },
+  {
+    "phrase": "🎴",
+    "replacement": ":flower_playing_cards:"
+  },
+  {
+    "phrase": "💭",
+    "replacement": ":thought_balloon:"
+  },
+  {
+    "phrase": "🗯",
+    "replacement": ":right_anger_bubble:"
+  },
+  {
+    "phrase": "💬",
+    "replacement": ":speech_balloon:"
+  },
+  {
+    "phrase": "🗨",
+    "replacement": ":left_speech_bubble:"
+  },
+  {
+    "phrase": "🕐",
+    "replacement": ":clock1:"
+  },
+  {
+    "phrase": "🕑",
+    "replacement": ":clock2:"
+  },
+  {
+    "phrase": "🕒",
+    "replacement": ":clock3:"
+  },
+  {
+    "phrase": "🕓",
+    "replacement": ":clock4:"
+  },
+  {
+    "phrase": "🕔",
+    "replacement": ":clock5:"
+  },
+  {
+    "phrase": "🕕",
+    "replacement": ":clock6:"
+  },
+  {
+    "phrase": "🕖",
+    "replacement": ":clock7:"
+  },
+  {
+    "phrase": "🕗",
+    "replacement": ":clock8:"
+  },
+  {
+    "phrase": "🕘",
+    "replacement": ":clock9:"
+  },
+  {
+    "phrase": "🕙",
+    "replacement": ":clock10:"
+  },
+  {
+    "phrase": "🕚",
+    "replacement": ":clock11:"
+  },
+  {
+    "phrase": "🕛",
+    "replacement": ":clock12:"
+  },
+  {
+    "phrase": "🕜",
+    "replacement": ":clock130:"
+  },
+  {
+    "phrase": "🕝",
+    "replacement": ":clock230:"
+  },
+  {
+    "phrase": "🕞",
+    "replacement": ":clock330:"
+  },
+  {
+    "phrase": "🕟",
+    "replacement": ":clock430:"
+  },
+  {
+    "phrase": "🕠",
+    "replacement": ":clock530:"
+  },
+  {
+    "phrase": "🕡",
+    "replacement": ":clock630:"
+  },
+  {
+    "phrase": "🕢",
+    "replacement": ":clock730:"
+  },
+  {
+    "phrase": "🕣",
+    "replacement": ":clock830:"
+  },
+  {
+    "phrase": "🕤",
+    "replacement": ":clock930:"
+  },
+  {
+    "phrase": "🕥",
+    "replacement": ":clock1030:"
+  },
+  {
+    "phrase": "🕦",
+    "replacement": ":clock1130:"
+  },
+  {
+    "phrase": "🕧",
+    "replacement": ":clock1230:"
+  },
+  {
+    "phrase": "🇦🇫",
+    "replacement": ":af:"
+  },
+  {
+    "phrase": "🇦🇽",
+    "replacement": ":ax:"
+  },
+  {
+    "phrase": "🇦🇱",
+    "replacement": ":al:"
+  },
+  {
+    "phrase": "🇩🇿",
+    "replacement": ":dz:"
+  },
+  {
+    "phrase": "🇦🇸",
+    "replacement": ":as:"
+  },
+  {
+    "phrase": "🇦🇩",
+    "replacement": ":ad:"
+  },
+  {
+    "phrase": "🇦🇴",
+    "replacement": ":ao:"
+  },
+  {
+    "phrase": "🇦🇮",
+    "replacement": ":ai:"
+  },
+  {
+    "phrase": "🇦🇶",
+    "replacement": ":aq:"
+  },
+  {
+    "phrase": "🇦🇬",
+    "replacement": ":ag:"
+  },
+  {
+    "phrase": "🇦🇷",
+    "replacement": ":ar:"
+  },
+  {
+    "phrase": "🇦🇲",
+    "replacement": ":am:"
+  },
+  {
+    "phrase": "🇦🇼",
+    "replacement": ":aw:"
+  },
+  {
+    "phrase": "🇦🇺",
+    "replacement": ":au:"
+  },
+  {
+    "phrase": "🇦🇹",
+    "replacement": ":at:"
+  },
+  {
+    "phrase": "🇦🇿",
+    "replacement": ":az:"
+  },
+  {
+    "phrase": "🇧🇸",
+    "replacement": ":bs:"
+  },
+  {
+    "phrase": "🇧🇭",
+    "replacement": ":bh:"
+  },
+  {
+    "phrase": "🇧🇩",
+    "replacement": ":bd:"
+  },
+  {
+    "phrase": "🇧🇧",
+    "replacement": ":bb:"
+  },
+  {
+    "phrase": "🇧🇾",
+    "replacement": ":by:"
+  },
+  {
+    "phrase": "🇧🇪",
+    "replacement": ":be:"
+  },
+  {
+    "phrase": "🇧🇿",
+    "replacement": ":bz:"
+  },
+  {
+    "phrase": "🇧🇯",
+    "replacement": ":bj:"
+  },
+  {
+    "phrase": "🇧🇲",
+    "replacement": ":bm:"
+  },
+  {
+    "phrase": "🇧🇹",
+    "replacement": ":bt:"
+  },
+  {
+    "phrase": "🇧🇴",
+    "replacement": ":bo:"
+  },
+  {
+    "phrase": "🇧🇶",
+    "replacement": ":bq:"
+  },
+  {
+    "phrase": "🇧🇦",
+    "replacement": ":ba:"
+  },
+  {
+    "phrase": "🇧🇼",
+    "replacement": ":bw:"
+  },
+  {
+    "phrase": "🇧🇷",
+    "replacement": ":br:"
+  },
+  {
+    "phrase": "🇮🇴",
+    "replacement": ":io:"
+  },
+  {
+    "phrase": "🇻🇬",
+    "replacement": ":vg:"
+  },
+  {
+    "phrase": "🇧🇳",
+    "replacement": ":bn:"
+  },
+  {
+    "phrase": "🇧🇬",
+    "replacement": ":bg:"
+  },
+  {
+    "phrase": "🇧🇫",
+    "replacement": ":bf:"
+  },
+  {
+    "phrase": "🇧🇮",
+    "replacement": ":bi:"
+  },
+  {
+    "phrase": "🇨🇻",
+    "replacement": ":cv:"
+  },
+  {
+    "phrase": "🇰🇭",
+    "replacement": ":kh:"
+  },
+  {
+    "phrase": "🇨🇲",
+    "replacement": ":cm:"
+  },
+  {
+    "phrase": "🇨🇦",
+    "replacement": ":ca:"
+  },
+  {
+    "phrase": "🇮🇨",
+    "replacement": ":ic:"
+  },
+  {
+    "phrase": "🇰🇾",
+    "replacement": ":ky:"
+  },
+  {
+    "phrase": "🇨🇫",
+    "replacement": ":cf:"
+  },
+  {
+    "phrase": "🇹🇩",
+    "replacement": ":td:"
+  },
+  {
+    "phrase": "🇨🇱",
+    "replacement": ":chile:"
+  },
+  {
+    "phrase": "🇨🇳",
+    "replacement": ":cn:"
+  },
+  {
+    "phrase": "🇨🇽",
+    "replacement": ":cx:"
+  },
+  {
+    "phrase": "🇨🇨",
+    "replacement": ":cc:"
+  },
+  {
+    "phrase": "🇨🇴",
+    "replacement": ":co:"
+  },
+  {
+    "phrase": "🇰🇲",
+    "replacement": ":km:"
+  },
+  {
+    "phrase": "🇨🇬",
+    "replacement": ":cg:"
+  },
+  {
+    "phrase": "🇨🇩",
+    "replacement": ":drc:"
+  },
+  {
+    "phrase": "🇨🇰",
+    "replacement": ":ck:"
+  },
+  {
+    "phrase": "🇨🇷",
+    "replacement": ":cr:"
+  },
+  {
+    "phrase": "🇭🇷",
+    "replacement": ":hr:"
+  },
+  {
+    "phrase": "🇨🇺",
+    "replacement": ":cu:"
+  },
+  {
+    "phrase": "🇨🇼",
+    "replacement": ":cw:"
+  },
+  {
+    "phrase": "🇨🇾",
+    "replacement": ":cy:"
+  },
+  {
+    "phrase": "🇨🇿",
+    "replacement": ":cz:"
+  },
+  {
+    "phrase": "🇩🇰",
+    "replacement": ":dk:"
+  },
+  {
+    "phrase": "🇩🇯",
+    "replacement": ":dj:"
+  },
+  {
+    "phrase": "🇩🇲",
+    "replacement": ":dm:"
+  },
+  {
+    "phrase": "🇩🇴",
+    "replacement": ":do:"
+  },
+  {
+    "phrase": "🇪🇨",
+    "replacement": ":ec:"
+  },
+  {
+    "phrase": "🇪🇬",
+    "replacement": ":eg:"
+  },
+  {
+    "phrase": "🇸🇻",
+    "replacement": ":sv:"
+  },
+  {
+    "phrase": "🇬🇶",
+    "replacement": ":gq:"
+  },
+  {
+    "phrase": "🇪🇷",
+    "replacement": ":er:"
+  },
+  {
+    "phrase": "🇪🇪",
+    "replacement": ":ee:"
+  },
+  {
+    "phrase": "🇪🇹",
+    "replacement": ":et:"
+  },
+  {
+    "phrase": "🇪🇺",
+    "replacement": ":eu:"
+  },
+  {
+    "phrase": "🇫🇰",
+    "replacement": ":fk:"
+  },
+  {
+    "phrase": "🇫🇴",
+    "replacement": ":fo:"
+  },
+  {
+    "phrase": "🇫🇯",
+    "replacement": ":fj:"
+  },
+  {
+    "phrase": "🇫🇮",
+    "replacement": ":fi:"
+  },
+  {
+    "phrase": "🇫🇷",
+    "replacement": ":fr:"
+  },
+  {
+    "phrase": "🇬🇫",
+    "replacement": ":gf:"
+  },
+  {
+    "phrase": "🇵🇫",
+    "replacement": ":pf:"
+  },
+  {
+    "phrase": "🇹🇫",
+    "replacement": ":tf:"
+  },
+  {
+    "phrase": "🇬🇦",
+    "replacement": ":ga:"
+  },
+  {
+    "phrase": "🇬🇲",
+    "replacement": ":gm:"
+  },
+  {
+    "phrase": "🇬🇪",
+    "replacement": ":ge:"
+  },
+  {
+    "phrase": "🇩🇪",
+    "replacement": ":de:"
+  },
+  {
+    "phrase": "🇬🇭",
+    "replacement": ":gh:"
+  },
+  {
+    "phrase": "🇬🇮",
+    "replacement": ":gi:"
+  },
+  {
+    "phrase": "🇬🇷",
+    "replacement": ":gr:"
+  },
+  {
+    "phrase": "🇬🇱",
+    "replacement": ":gl:"
+  },
+  {
+    "phrase": "🇬🇩",
+    "replacement": ":gd:"
+  },
+  {
+    "phrase": "🇬🇵",
+    "replacement": ":gp:"
+  },
+  {
+    "phrase": "🇬🇺",
+    "replacement": ":gu:"
+  },
+  {
+    "phrase": "🇬🇹",
+    "replacement": ":gt:"
+  },
+  {
+    "phrase": "🇬🇬",
+    "replacement": ":gg:"
+  },
+  {
+    "phrase": "🇬🇳",
+    "replacement": ":gn:"
+  },
+  {
+    "phrase": "🇬🇼",
+    "replacement": ":gw:"
+  },
+  {
+    "phrase": "🇬🇾",
+    "replacement": ":gy:"
+  },
+  {
+    "phrase": "🇭🇹",
+    "replacement": ":ht:"
+  },
+  {
+    "phrase": "🇭🇳",
+    "replacement": ":hn:"
+  },
+  {
+    "phrase": "🇭🇰",
+    "replacement": ":hk:"
+  },
+  {
+    "phrase": "🇭🇺",
+    "replacement": ":hu:"
+  },
+  {
+    "phrase": "🇮🇸",
+    "replacement": ":is:"
+  },
+  {
+    "phrase": "🇮🇳",
+    "replacement": ":in:"
+  },
+  {
+    "phrase": "🇮🇩",
+    "replacement": ":indonesia:"
+  },
+  {
+    "phrase": "🇮🇷",
+    "replacement": ":ir:"
+  },
+  {
+    "phrase": "🇮🇶",
+    "replacement": ":iq:"
+  },
+  {
+    "phrase": "🇮🇪",
+    "replacement": ":ie:"
+  },
+  {
+    "phrase": "🇮🇲",
+    "replacement": ":im:"
+  },
+  {
+    "phrase": "🇮🇱",
+    "replacement": ":il:"
+  },
+  {
+    "phrase": "🇮🇹",
+    "replacement": ":it:"
+  },
+  {
+    "phrase": "🇨🇮",
+    "replacement": ":ci:"
+  },
+  {
+    "phrase": "🇯🇲",
+    "replacement": ":jm:"
+  },
+  {
+    "phrase": "🇯🇵",
+    "replacement": ":jp:"
+  },
+  {
+    "phrase": "🇯🇪",
+    "replacement": ":je:"
+  },
+  {
+    "phrase": "🇯🇴",
+    "replacement": ":jo:"
+  },
+  {
+    "phrase": "🇰🇿",
+    "replacement": ":kz:"
+  },
+  {
+    "phrase": "🇰🇪",
+    "replacement": ":ke:"
+  },
+  {
+    "phrase": "🇰🇮",
+    "replacement": ":ki:"
+  },
+  {
+    "phrase": "🇽🇰",
+    "replacement": ":xk:"
+  },
+  {
+    "phrase": "🇰🇼",
+    "replacement": ":kw:"
+  },
+  {
+    "phrase": "🇰🇬",
+    "replacement": ":kg:"
+  },
+  {
+    "phrase": "🇱🇦",
+    "replacement": ":la:"
+  },
+  {
+    "phrase": "🇱🇻",
+    "replacement": ":lv:"
+  },
+  {
+    "phrase": "🇱🇧",
+    "replacement": ":lb:"
+  },
+  {
+    "phrase": "🇱🇸",
+    "replacement": ":ls:"
+  },
+  {
+    "phrase": "🇱🇷",
+    "replacement": ":lr:"
+  },
+  {
+    "phrase": "🇱🇾",
+    "replacement": ":ly:"
+  },
+  {
+    "phrase": "🇱🇮",
+    "replacement": ":li:"
+  },
+  {
+    "phrase": "🇱🇹",
+    "replacement": ":lt:"
+  },
+  {
+    "phrase": "🇱🇺",
+    "replacement": ":lu:"
+  },
+  {
+    "phrase": "🇲🇴",
+    "replacement": ":mo:"
+  },
+  {
+    "phrase": "🇲🇰",
+    "replacement": ":mk:"
+  },
+  {
+    "phrase": "🇲🇬",
+    "replacement": ":mg:"
+  },
+  {
+    "phrase": "🇲🇼",
+    "replacement": ":mw:"
+  },
+  {
+    "phrase": "🇲🇾",
+    "replacement": ":my:"
+  },
+  {
+    "phrase": "🇲🇻",
+    "replacement": ":mv:"
+  },
+  {
+    "phrase": "🇲🇱",
+    "replacement": ":ml:"
+  },
+  {
+    "phrase": "🇲🇹",
+    "replacement": ":mt:"
+  },
+  {
+    "phrase": "🇲🇭",
+    "replacement": ":mh:"
+  },
+  {
+    "phrase": "🇲🇶",
+    "replacement": ":mq:"
+  },
+  {
+    "phrase": "🇲🇷",
+    "replacement": ":mr:"
+  },
+  {
+    "phrase": "🇲🇺",
+    "replacement": ":mu:"
+  },
+  {
+    "phrase": "🇾🇹",
+    "replacement": ":yt:"
+  },
+  {
+    "phrase": "🇲🇽",
+    "replacement": ":mx:"
+  },
+  {
+    "phrase": "🇫🇲",
+    "replacement": ":fm:"
+  },
+  {
+    "phrase": "🇲🇩",
+    "replacement": ":md:"
+  },
+  {
+    "phrase": "🇲🇨",
+    "replacement": ":mc:"
+  },
+  {
+    "phrase": "🇲🇳",
+    "replacement": ":mn:"
+  },
+  {
+    "phrase": "🇲🇪",
+    "replacement": ":me:"
+  },
+  {
+    "phrase": "🇲🇸",
+    "replacement": ":ms:"
+  },
+  {
+    "phrase": "🇲🇦",
+    "replacement": ":ma:"
+  },
+  {
+    "phrase": "🇲🇿",
+    "replacement": ":mz:"
+  },
+  {
+    "phrase": "🇲🇲",
+    "replacement": ":mm:"
+  },
+  {
+    "phrase": "🇳🇦",
+    "replacement": ":na:"
+  },
+  {
+    "phrase": "🇳🇷",
+    "replacement": ":nr:"
+  },
+  {
+    "phrase": "🇳🇵",
+    "replacement": ":np:"
+  },
+  {
+    "phrase": "🇳🇱",
+    "replacement": ":nl:"
+  },
+  {
+    "phrase": "🇳🇨",
+    "replacement": ":nc:"
+  },
+  {
+    "phrase": "🇳🇿",
+    "replacement": ":nz:"
+  },
+  {
+    "phrase": "🇳🇮",
+    "replacement": ":ni:"
+  },
+  {
+    "phrase": "🇳🇪",
+    "replacement": ":ne:"
+  },
+  {
+    "phrase": "🇳🇬",
+    "replacement": ":nigeria:"
+  },
+  {
+    "phrase": "🇳🇺",
+    "replacement": ":nu:"
+  },
+  {
+    "phrase": "🇳🇫",
+    "replacement": ":nf:"
+  },
+  {
+    "phrase": "🇲🇵",
+    "replacement": ":mp:"
+  },
+  {
+    "phrase": "🇰🇵",
+    "replacement": ":kp:"
+  },
+  {
+    "phrase": "🇳🇴",
+    "replacement": ":no:"
+  },
+  {
+    "phrase": "🇴🇲",
+    "replacement": ":om:"
+  },
+  {
+    "phrase": "🇵🇰",
+    "replacement": ":pk:"
+  },
+  {
+    "phrase": "🇵🇼",
+    "replacement": ":pw:"
+  },
+  {
+    "phrase": "🇵🇸",
+    "replacement": ":ps:"
+  },
+  {
+    "phrase": "🇵🇦",
+    "replacement": ":pa:"
+  },
+  {
+    "phrase": "🇵🇬",
+    "replacement": ":pg:"
+  },
+  {
+    "phrase": "🇵🇾",
+    "replacement": ":py:"
+  },
+  {
+    "phrase": "🇵🇪",
+    "replacement": ":pe:"
+  },
+  {
+    "phrase": "🇵🇭",
+    "replacement": ":ph:"
+  },
+  {
+    "phrase": "🇵🇳",
+    "replacement": ":pn:"
+  },
+  {
+    "phrase": "🇵🇱",
+    "replacement": ":pl:"
+  },
+  {
+    "phrase": "🇵🇹",
+    "replacement": ":pt:"
+  },
+  {
+    "phrase": "🇵🇷",
+    "replacement": ":pr:"
+  },
+  {
+    "phrase": "🇶🇦",
+    "replacement": ":qa:"
+  },
+  {
+    "phrase": "🇷🇪",
+    "replacement": ":re:"
+  },
+  {
+    "phrase": "🇷🇴",
+    "replacement": ":ro:"
+  },
+  {
+    "phrase": "🇷🇺",
+    "replacement": ":ru:"
+  },
+  {
+    "phrase": "🇷🇼",
+    "replacement": ":rw:"
+  },
+  {
+    "phrase": "🇧🇱",
+    "replacement": ":bl:"
+  },
+  {
+    "phrase": "🇸🇭",
+    "replacement": ":sh:"
+  },
+  {
+    "phrase": "🇰🇳",
+    "replacement": ":kn:"
+  },
+  {
+    "phrase": "🇱🇨",
+    "replacement": ":lc:"
+  },
+  {
+    "phrase": "🇵🇲",
+    "replacement": ":pm:"
+  },
+  {
+    "phrase": "🇻🇨",
+    "replacement": ":vc:"
+  },
+  {
+    "phrase": "🇼🇸",
+    "replacement": ":ws:"
+  },
+  {
+    "phrase": "🇸🇲",
+    "replacement": ":sm:"
+  },
+  {
+    "phrase": "🇸🇹",
+    "replacement": ":st:"
+  },
+  {
+    "phrase": "🇸🇦",
+    "replacement": ":saudi_arabia:"
+  },
+  {
+    "phrase": "🇸🇳",
+    "replacement": ":sn:"
+  },
+  {
+    "phrase": "🇷🇸",
+    "replacement": ":rs:"
+  },
+  {
+    "phrase": "🇸🇨",
+    "replacement": ":sc:"
+  },
+  {
+    "phrase": "🇸🇱",
+    "replacement": ":sl:"
+  },
+  {
+    "phrase": "🇸🇬",
+    "replacement": ":sg:"
+  },
+  {
+    "phrase": "🇸🇽",
+    "replacement": ":sx:"
+  },
+  {
+    "phrase": "🇸🇰",
+    "replacement": ":sk:"
+  },
+  {
+    "phrase": "🇸🇮",
+    "replacement": ":si:"
+  },
+  {
+    "phrase": "🇸🇧",
+    "replacement": ":sb:"
+  },
+  {
+    "phrase": "🇸🇴",
+    "replacement": ":so:"
+  },
+  {
+    "phrase": "🇿🇦",
+    "replacement": ":za:"
+  },
+  {
+    "phrase": "🇬🇸",
+    "replacement": ":gs:"
+  },
+  {
+    "phrase": "🇰🇷",
+    "replacement": ":kr:"
+  },
+  {
+    "phrase": "🇸🇸",
+    "replacement": ":ss:"
+  },
+  {
+    "phrase": "🇪🇸",
+    "replacement": ":es:"
+  },
+  {
+    "phrase": "🇱🇰",
+    "replacement": ":lk:"
+  },
+  {
+    "phrase": "🇸🇩",
+    "replacement": ":sd:"
+  },
+  {
+    "phrase": "🇸🇷",
+    "replacement": ":sr:"
+  },
+  {
+    "phrase": "🇸🇿",
+    "replacement": ":sz:"
+  },
+  {
+    "phrase": "🇸🇪",
+    "replacement": ":se:"
+  },
+  {
+    "phrase": "🇨🇭",
+    "replacement": ":ch:"
+  },
+  {
+    "phrase": "🇸🇾",
+    "replacement": ":sy:"
+  },
+  {
+    "phrase": "🇹🇼",
+    "replacement": ":tw:"
+  },
+  {
+    "phrase": "🇹🇯",
+    "replacement": ":tj:"
+  },
+  {
+    "phrase": "🇹🇿",
+    "replacement": ":tz:"
+  },
+  {
+    "phrase": "🇹🇭",
+    "replacement": ":th:"
+  },
+  {
+    "phrase": "🇹🇱",
+    "replacement": ":tl:"
+  },
+  {
+    "phrase": "🇹🇬",
+    "replacement": ":tg:"
+  },
+  {
+    "phrase": "🇹🇰",
+    "replacement": ":tk:"
+  },
+  {
+    "phrase": "🇹🇴",
+    "replacement": ":to:"
+  },
+  {
+    "phrase": "🇹🇹",
+    "replacement": ":tt:"
+  },
+  {
+    "phrase": "🇹🇳",
+    "replacement": ":tn:"
+  },
+  {
+    "phrase": "🇹🇷",
+    "replacement": ":tr:"
+  },
+  {
+    "phrase": "🇹🇲",
+    "replacement": ":turkmenistan:"
+  },
+  {
+    "phrase": "🇹🇨",
+    "replacement": ":tc:"
+  },
+  {
+    "phrase": "🇹🇻",
+    "replacement": ":tuvalu:"
+  },
+  {
+    "phrase": "🇺🇬",
+    "replacement": ":ug:"
+  },
+  {
+    "phrase": "🇺🇦",
+    "replacement": ":ua:"
+  },
+  {
+    "phrase": "🇦🇪",
+    "replacement": ":ae:"
+  },
+  {
+    "phrase": "🇬🇧",
+    "replacement": ":gb:"
+  },
+  {
+    "phrase": "🇺🇸",
+    "replacement": ":us:"
+  },
+  {
+    "phrase": "🇻🇮",
+    "replacement": ":vi:"
+  },
+  {
+    "phrase": "🇺🇾",
+    "replacement": ":uy:"
+  },
+  {
+    "phrase": "🇺🇿",
+    "replacement": ":uz:"
+  },
+  {
+    "phrase": "🇻🇺",
+    "replacement": ":vu:"
+  },
+  {
+    "phrase": "🇻🇦",
+    "replacement": ":va:"
+  },
+  {
+    "phrase": "🇻🇪",
+    "replacement": ":ve:"
+  },
+  {
+    "phrase": "🇻🇳",
+    "replacement": ":vn:"
+  },
+  {
+    "phrase": "🇼🇫",
+    "replacement": ":wf:"
+  },
+  {
+    "phrase": "🇪🇭",
+    "replacement": ":eh:"
+  },
+  {
+    "phrase": "🇾🇪",
+    "replacement": ":ye:"
+  },
+  {
+    "phrase": "🇿🇲",
+    "replacement": ":zm:"
+  },
+  {
+    "phrase": "🇿🇼",
+    "replacement": ":zw:"
+  }
+]

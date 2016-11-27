@@ -33,10 +33,12 @@ describe('Bot-Lang', function(){
       assert.equal(clean.all("how much is 1,000.00"), "how much is 1000.00");
     });
 
-    it("Fix ASCII characters", function() {
+    it("Fix Unicode characters", function() {
       assert.equal(clean.all("What’s up"), "What's up");
       assert.equal(clean.all("I said “shut up”"), 'I said "shut up"');
       assert.equal(clean.all("œ"), '');
+      assert.equal(clean.all("😊"), '😊');
+      
     });
   });
 
@@ -60,11 +62,15 @@ describe('Bot-Lang', function(){
       assert.equal(replace.all("armour axe coloured gold"), "armor ax colored gold");
     });
 
+    it("should swap unicode emoji's for keywords", function() {
+      assert.equal(replace.emoji("You make me 😊"), "You make me :blush:");
+    });
+
     it("should fix spelling", function() {
       assert.equal(replace.all("are we sceduled thrsday for teh restraunt"), "are we scheduled Thursday for the restaurant");
     });
 
-    it("should clean this", function() {
+    it("should remove frivolous words", function() {
       assert.equal(replace.all("Well , I could not help it, could I"), "I could not help it, could I")
     });
 
@@ -90,7 +96,7 @@ describe('Bot-Lang', function(){
     });
 
     it("should have emoji", function() {
-      assert.deepEqual(tag.all(":wave: :one: :heart:"), []);
+      assert.deepEqual(tag.all(":wave: :one: :heart:"), ['slack_emoji_people', 'slack_emoji_symbols']);
     });
 
   });
