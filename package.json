@@ -1,6 +1,6 @@
 {
   "name": "bot-lang",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Common bot language subsitutions and tags.",
   "main": "index.js",
   "directories": {

@@ -4,7 +4,6 @@ const re3 = new RegExp(/\s+/g);
 const re4 = new RegExp(/(’|‘)/g);
 const re5 = new RegExp(/(“|”)/g);
 const re6 = new RegExp(/(–|—)/g);
-// const re7 = new RegExp(/[^\x00-\x7F]/g);
 const re7 = new RegExp(/[\u00A1-\u1EF3]/g) 
 const re8 = new RegExp(/[\+]{1}/g);
 const re9 = new RegExp(/<plus>/g);
