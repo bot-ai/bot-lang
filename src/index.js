@@ -1,4 +1,4 @@
-var replace = require("./replace");
+const replace = require("./replace");
 
 exports.clean = function(input) {
   input = replace.contraction(input);

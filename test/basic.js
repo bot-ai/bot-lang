@@ -1,6 +1,7 @@
 var mocha = require("mocha");
 var assert = require("assert");
-var norm = require("../lib/index");
+var norm = require("../src/index");
+var tag = require("../src/tag");
 
 describe('Bot-Lang', function(){
   var startTime;
@@ -50,10 +51,6 @@ describe('Bot-Lang', function(){
       assert.equal(norm.clean("this    is     spaced     out"), "this is spaced out");
     });
 
-  //   it("should remove punct", function() {
-  //     norm.clean("why do i care?").should.eql("why do I care");
-  //   });
-
     it("Fix numbers", function() {
       assert.equal(norm.clean("how much is 1,000.00"), "how much is 1000.00");
     });
@@ -63,13 +60,33 @@ describe('Bot-Lang', function(){
       assert.equal(norm.clean("hwo is you"), "who is you");
     });
 
-  //   it("Fix ASCII characters", function() {
-  //     norm.clean("What’s up").should.eql("what is up");
-  //     norm.clean("What's up").should.eql("what is up");
-  //     norm.clean("I said “shut up”").should.eql('I said "shut up"');
-  //     norm.clean("œ").should.eql('');
-  //   });
-  // });
+    it("Fix ASCII characters", function() {
+      assert.equal(norm.clean("What’s up"), "what is up");
+      assert.equal(norm.clean("What's up"), "what is up");
+      assert.equal(norm.clean("I said “shut up”"), 'I said "shut up"');
+      assert.equal(norm.clean("œ"), '');
+    });
+
+  });
+
+  
+  describe('Tagging', function() {
+  
+    it("should tag input", function() {
+      assert.equal(tag.testInput("yes", "I am sure"), true);
+      assert.equal(tag.testInput("yes", "Nope"), false, "yes is not nope");
+      assert.equal(tag.testInput("no", "Nope"), true);
+      assert.equal(tag.testInput("apology", "well excuse me princess"), false);
+      assert.equal(tag.testInput("apology", "excuse me princess"), true);
+    });
+
+    it("should have all", function() {
+      assert.deepEqual(tag.testAll("eww , shut up , I have to go"), [ 'disgust', 'goodbye', 'stop' ]);
+    });
+  });
+  
+});
+
 
   // describe('Matching', function() {
   //   // <it_is>
@@ -147,5 +164,3 @@ describe('Bot-Lang', function(){
   //       norm.clean('abc okay abc').should.eql("abc ~yes abc");
   //     });
   //   })
-  });
-});

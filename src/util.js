@@ -3,6 +3,8 @@ import path from "path";
 
 const dataDir = path.join(__dirname, '../data/');
 const re11 = new RegExp(/_/g);
+const replacements = {};
+const fileCache = [];
 
 const quotemeta = function (string) {
   const unsafe = "\\.+*?[^]$(){}=!<>|:";
@@ -12,7 +14,7 @@ const quotemeta = function (string) {
   return string;
 };
 
-const lineHandle = function lineHandle(replacements, phrase, replacement = '') {
+const lineHandle = function lineHandle(source, phrase, replacement = '') {
   let start = false;
   let end = false;
 
@@ -53,39 +55,49 @@ const lineHandle = function lineHandle(replacements, phrase, replacement = '') {
         replacementRegex = `$1${replacement}$2`;
       }
 
-      replacements[word].push({ phrase, replacement, phraseRegex, replacementRegex });
+      replacements[word].push({ phrase, replacement, phraseRegex, replacementRegex, source});
       replacements[word].sort((a, b) => (b.phrase.split(' ').length - a.phrase.split(' ').length));    
     }
   });
 };
 
 const prepFile = function(file) {
-  const replacements = {};
-  const data = fs.readFileSync(dataDir + file, 'utf8').split(/\r|\n/);
 
-  for (let i = 0; i < data.length; i++) {
-    const line = data[i];
-    let nline = line.trimLeft();
+  if (fileCache.indexOf(file) == -1) {
+    const source = file.replace(".txt", "");
+    const data = fs.readFileSync(dataDir + file, 'utf8').split(/\r|\n/);  
+  
+    for (let i = 0; i < data.length; i++) {
+      const line = data[i];
+      let nline = line.trimLeft();
 
-    // Let's allow comments with '#'
-    const pos = nline.indexOf('#');
+      // Let's allow comments with '#'
+      const pos = nline.indexOf('#');
 
-    if (pos === -1) {
-      const parts = nline.split(' ');
+      if (pos === -1) {
+        const parts = nline.split(' ');
 
-      if (parts[1] === undefined) {
-        lineHandle(replacements, parts[0], '');
-      } else {
-        lineHandle(replacements, parts[0], parts[1]);
+        if (parts[1] === undefined) {
+          lineHandle(source, parts[0], '');
+        } else {
+          lineHandle(source, parts[0], parts[1]);
+        }
+      } else if (pos > 0) {
+        nline = nline.substr(0, pos);
+        const parts = nline.split(' ');
+        lineHandle(source, parts[0], parts[1]);
       }
-    } else if (pos > 0) {
-      nline = nline.substr(0, pos);
-      const parts = nline.split(' ');
-      lineHandle(replacements, parts[0], parts[1]);
     }
-  }
 
-  return replacements;
+    fileCache.push(file);
+  }
 }
 
-export default { prepFile,  quotemeta};
+const uniq = function(a) {
+    return a.sort().filter(function(item, pos, ary) {
+        return !pos || item != ary[pos - 1];
+    })
+}
+
+
+export default {prepFile, quotemeta, replacements, uniq};

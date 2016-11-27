@@ -16,23 +16,35 @@ const re11 = new RegExp(/_/g);
 
 
 exports.contraction = function(input) {
-  return testRegexpArray(util.prepFile("replace/contractions.txt"), input);
+  util.prepFile("replace/contractions.txt");
+  return testRegexpArray(input);
 }
 
 exports.spellfix = function(input) {
-  return testRegexpArray(util.prepFile("replace/spellfix.txt"), input);
+  util.prepFile("replace/spellfix.txt");
+  return testRegexpArray(input);
 }
 
 exports.substitutes = function(input) {
-  return testRegexpArray(util.prepFile("replace/substitutes.txt"), input); 
+  util.prepFile("replace/substitutes.txt");
+  return testRegexpArray(input); 
 }
 
 exports.british = function(input) {
-  return testRegexpArray(util.prepFile("replace/british.txt"), input); 
+  util.prepFile("replace/british.txt");
+  return testRegexpArray(input); 
 }
 
-const testRegexpArray = function(replacements, msg) {
+exports.loadAll = function(input) {
+  util.prepFile("replace/contractions.txt");
+  util.prepFile("replace/spellfix.txt");
+  util.prepFile("replace/british.txt");
+  util.prepFile("replace/substitutes.txt");
+  return testRegexpArray(input);
+}
 
+
+const testRegexpArray = function(msg = "") {
   msg = msg.replace(re1, '<plus>');
   msg = msg.replace(re2, ' ');
   msg = msg.replace(re3, ' ');
@@ -43,8 +55,8 @@ const testRegexpArray = function(replacements, msg) {
 
   let splitMsg = msg.toLowerCase().split(' ');
   splitMsg.some((word) => {
-    if (replacements[word]) {
-      replacements[word].some((phrase) => {
+    if (util.replacements[word]) {
+      util.replacements[word].some((phrase) => {
         // console.log(`Testing "${phrase.phrase}"`);
         msg = msg.replace(phrase.phraseRegex, phrase.replacementRegex);
       });
