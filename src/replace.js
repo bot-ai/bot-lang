@@ -18,6 +18,11 @@ exports.substitutes = function(input) {
   return testRegexpArray(input); 
 }
 
+exports.frivolous = function(input) {
+  util.prepFile("replace/frivolous.txt");
+  return testRegexpArray(input);
+}
+
 exports.british = function(input) {
   util.prepFile("replace/british.txt");
   return testRegexpArray(input); 
@@ -28,15 +33,14 @@ exports.emoji = function(input) {
   return testRegexpArray(input); 
 }
 
-
 exports.all = function(input) {
   util.prepFile("replace/contractions.txt");
   util.prepFile("replace/spellfix.txt");
   util.prepFile("replace/british.txt");
   util.prepFile("replace/substitutes.txt");
+  util.prepFile("replace/frivolous.txt");
   return testRegexpArray(input);
 }
-
 
 const testRegexpArray = function(msg = "") {
   msg = clean.pre(msg);
@@ -46,7 +50,9 @@ const testRegexpArray = function(msg = "") {
     if (util.replacements[word]) {
       util.replacements[word].some((phrase) => {
         // console.log(`Testing "${phrase.phrase}"`);
+        let prevMsg = msg;
         msg = msg.replace(phrase.phraseRegex, phrase.replacementRegex);
+        if (msg === "" || msg === " ") msg = prevMsg;
       });
     }
   });

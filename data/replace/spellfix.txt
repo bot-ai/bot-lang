@@ -3655,6 +3655,8 @@ serivced serviced
 serveral several
 seven-letter 7-letter
 severeal several
+severley severely
+severly severely
 sewdonim pseudonym
 sexul sexual
 shaddow shadow
@@ -4020,6 +4022,7 @@ suttle subtle
 suvenear souvenir
 suvenior souvenir
 suveniors souvenirs
+sux sucks
 swaer swear
 swaers swears
 sweeped swept
@@ -4198,6 +4201,8 @@ tornament tournament
 torpedos torpedoes
 tortilini tortellini
 tortise tortoise
+totaly totally
+totalyl totally
 tounge tongue
 tourit tourist
 tourits tourists
@@ -4330,6 +4335,7 @@ uneffected unaffected
 unexeceptional unexceptional
 unfeasable unfeasible
 unforgetable unforgettable
+unforetunately unfortunately
 unilatreal unilateral
 unilatreally unilaterally
 univeristies universities
@@ -4625,6 +4631,9 @@ yelow yellow
 yera year
 yeras years
 yoman yeoman
+ypu you
+yu you
+yuor your
 youforic euphoric
 youlogy eulogy
 youthinasia euthanasia

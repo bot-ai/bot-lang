@@ -74,13 +74,17 @@ describe('Bot-Lang', function(){
       assert.equal(replace.all("Well , I could not help it, could I"), "I could not help it, could I")
     });
 
+    it("frivolous - lets not replace everything", function() {
+      assert.equal(replace.frivolous("let me see"), "let me see");
+      assert.equal(replace.frivolous("ahh let me see"), "let me see");
+    });
+
     it("Spell Fix 2 word combo", function() {
       assert.equal(replace.all("hwo do you"), "how do you");
       assert.equal(replace.all("hwo is you"), "who is you");
     });
   });
 
-  
   describe('Tagging Interface', function() {
   
     it("should tag input", function() {
@@ -98,9 +102,7 @@ describe('Bot-Lang', function(){
     it("should have emoji", function() {
       assert.deepEqual(tag.all(":wave: :one: :heart:"), ['slack_emoji_people', 'slack_emoji_symbols']);
     });
-
   });
-  
 });
 
 

@@ -1,31 +1,37 @@
-a.i. artificial+intelligence
-Apr April
-Apr. April
-ariz. Arizona
-Aug August
-Aug. August
-colo. Colorado
-Corp Corporation
-Corp. Corporation
-Dec December
-Dec. December
-e.g. for+example
-ex. for+example
-FB Facebook
-Feb February
-Feb. February
-fla. Florida
-ft feet
-ft. feet
-i.e. for+example
-ie: for+example+:
-Inc Incorporated
-Inc. Incorporated
 Jan January 
 Jan. January
 Jul. July
 Jun June
 Jun. June
+Apr April
+Apr. April
+Aug August
+Aug. August
+Dec December
+Dec. December
+Feb February
+Feb. February
+Mar. March
+Nov November
+Nov. November
+Oct October
+Oct. October
+Sep September
+sep. September
+Sept September
+Sept. September
+ariz. Arizona
+colo. Colorado
+mich. Michigan
+minn. Minnesota
+nev. Nevada
+okla. Oklahoma
+fla. Florida
+e.g. for+example
+ex. for+example
+FB Facebook
+i.e. for+example
+ie: for+example+:
 kg kilogram
 kg. kilogram
 kgs. kilograms
@@ -33,63 +39,43 @@ lb pound
 lb. pound
 lbs pounds
 lbs. pounds
-Ltd Limited
-Ltd. Limited
-Mar. March
-mich. Michigan
-minn. Minnesota
-Mr Mr.
-Mrs Mrs.
-Mt. Mount
-nev. Nevada
-Nov November
-Nov. November
-Oct October
-Oct. October
-okla. Oklahoma
+qt quart
+ft feet
+ft. feet
 oz ounce
 oz. ounce
+yr year
+yr. year
+Ltd Limited
+Ltd. Limited
+Corp Corporation
+Corp. Corporation
+Inc Incorporated
+Inc. Incorporated
+Mr Mr.
+Mrs Mrs.
+Dr Doctor
+Dr. Doctor
+prof. professor
+Mt. Mount
 PLC. PLC
-Sep September
-sep. September
-Sept September
-Sept. September
 u_s_a U.S.A.
 USA U.S.A.
 v. versus
 vs. versus
 w/ with
-yr year
-yr. year
-
 Loebners Loebner
 Loebner_'s Loebner
 <got_it> OK
-Dr Doctor
-Dr. Doctor
 <explain> why
-prof. professor
-
 <I_see> OK
-
 gon_na going+to
-qt quart
-
-,_no_problem>
-,_fear_not>
-,_never_fear>
-_for_sure>
-_for_certain>
-
-,_alright_? %QUESTIONMARK
-,_also
-,_ok_? %QUESTIONMARK
-,_okay_? %QUESTIONMARK
-,_yes_? %QUESTIONMARK
+a.i. artificial+intelligence
+,_alright_? ?
+,_ok_? ?
+,_okay_? ?
+,_yes_? ?
 <am_I_not am+i
-<and
-<and_what_should_I_say
-<and_what_should_I_tell_you
 <because? why?
 <becos? why?
 <but_how how
@@ -98,43 +84,28 @@ _for_certain>
 <but_where where
 <but_who who
 <but_why why
-<cool,
 <do_you_know_about_the what+is+the
 <do_you_not do+you
-<doubtless
-<goodness_,
 <herself_,_she she
 <herself_she she
 <himself_,_he he
 <himself_he he
-<hm
-<hmm
-<hmmm
-<hmmmm
 <how_are_you_doing how+are+you
 <how_are_you_feeling how+are+you
 <how_come why
 <how_interesting> interesting
 <I_am_afraid_I I
-<I_believe
-<I_can_see_that
 <I_could_not_say> I+do+not+know
 <I_guess_I I
-<I_mean_,
 <I_mean_do do
 <I_mean_have have
 <I_mean_how how
 <I_mean_I I
 <I_mean_I_am I+am
 <I_mean_it_is it+is
-<I_mean_that
-<I_mean_what
 <I_mean_you_are you+are
-<I_meant_,
-<I_meant_what
-<I_presume %QUESTIONMARK
-<I_presume_that %QUESTIONMARK
-<I_suppose
+<I_presume ?
+<I_presume_that ?
 <I_would_like_to_ask_if_it_is is+it
 <I_would_like_to_ask_you_if_it_is is+it
 <I_would_like_to_ask_you_is_it is+it
@@ -143,54 +114,32 @@ _for_certain>
 <is_it_possible_that_you_should should+you
 <is_it_possible_that_you_would would+you
 <it_did> why
-<it_is_like_,
 <itself_,_it it
 <itself_it it
-<just
-<like_,
 <lots many
-<man_,
 <myself_,_I I
 <myself_I I
-<now_that_I_come_to_think_about_it
-<now_that_I_come_to_think_of_it
-<now_that_I_think_about_it
-<now_that_I_think_of_it
-<oh
 <oh? why?
-<ohh
 <oo oh
 <ourself_,_we we
 <ourself_we we
 <ourselves_,_we we
-<please
-<see_?
 <of_what what
 <should_you_not should+you
-<shucks
-<so
-<so_what_do_you_think_,
 <tell_me_more> continue
 <themself_,_they they
 <themselves_,_they they
 <themselves_they they
-<then
-<well_,
-<well_ok
 <were_not were
 <what_a that+is+a
 <what_the_fuck_are what+are
 <what_the_fuck_is what+is
 <what_the_fuck_were what+were
 <what_you what+be+you
-<whatever_,
-<when_all_of_a_sudden
-<when_suddenly
 <which_means> for+example
 <why_hello hello
 <will_not_you will+you
 <will_you_not will+you
-<would_you_please
 <yourself_,_you you
 <yourselves_,_you you
 12_midnight midnight
@@ -326,36 +275,26 @@ abouta about+a
 aboutit about+it
 aboutthe about+the
 ABS_system ABS
-absolutely
 accidently accidentally
 accordingto according+to
 acid_test important+test
 active_weather weather
-actually
 add_together combine
-additionally
 advance_forward forward
 advance_scouting scouting
 advance_warning warning
 affirmative_yes yes
 affluent_rich rich
-after_all
-after_full_consideration
 after_life afterlife
 afterthe after+the
 afterwhich after+which
 againstt_he against+the
-ah
 ahead_of_schedule early
-ahh
-ahhh
 ahold_of a+hold+of
 aid_and_abet abet
 aint is+not
 album_comprised_of album+composed+of
 all_for_not all+for+naught
-all_things_considered
-allready
 alma_matter alma+mater
 almost_all most
 almost_all_the_time all+the+time
@@ -363,7 +302,6 @@ along_the_lines_of resembling
 along_time a+long+time
 alot a+lot
 alot_of a+lot+of
-also
 altho although
 am_in_the_morning am
 am_worried_about worry+about
@@ -380,8 +318,6 @@ andthe and+the
 anonymous_stranger stranger
 anually annually
 any_more anymore
-anyway
-anyways
 appeared_to_be was
 apple_iphone iPhone
 Apple_iPhone iPhone
@@ -393,8 +329,6 @@ archeologists archaeologists
 archeology archaeology
 arent are+not
 armed_assault_and_holdup holdup holdup
-as_a_matter_of_fact
-as_a_result
 as_black_as_pitch black
 as_blind_as_a_bat blind
 as_busy_as_a_beaver busy
@@ -402,12 +336,9 @@ as_busy_as_a_bee busy
 as_cool_as_a_cucumber calm
 as_dead_as_a_doornail dead
 as_easy_as_pie easy
-as_far_as_I_am_concerned
-as_far_as_I_can_remember
 as_gentle_as_a_lamb gentle
 as_happy_as_a_lark happy
 as_heavy_as_lead lead
-as_I_understand_it
 as_pretty_as_a_picture pretty
 as_quick_as_a_flash quick
 as_quick_as_a_wink quickly
@@ -417,23 +348,18 @@ as_smart_as_a_whip smart
 as_straight_as_an_arrow straight
 as_strong_as_an_ox strong
 as_thin_as_a_rail thin
-as_well>
 as_white_as_a_sheet white
 as_wise_as_an_owl smart
 asap as+soon+as+possible
 ascend_up ascend
 askt_he ask+the
-aslo
 assuming_that if
-assuredly
 asthe as+the
 aswell as+well
 at_all_times always
-at_least
 at_the_current_instant now
 at_the_current_moment now
 at_the_end_of after
-at_the_present_time
 at_this_instant now
 at_this_moment now
 at_this_point_in_time at+this+time
@@ -446,8 +372,6 @@ autobiography_of_his_life autobiography
 autobiography_of_my_life autobiography
 autobiography_of_your_life autobiography
 automatic_ATM_machine ATM
-aw
-aww
 back_and_fourth back+and+forth
 back_in_forth back+and+forth
 bad_evil evil
@@ -456,10 +380,6 @@ band_comprised_of band+composed+of
 bare_essentials essentials
 basic_essentials essentials
 basic_fundamentals fundamentals
-basically
-basicaly
-basiclly
-basicly
 be_ware beware
 beautiful_vista_to_look_out_upon vista
 because_of_the_fact_that because
@@ -477,8 +397,6 @@ biography_of_her_life biography
 biography_of_his_life biography
 biography_of_my_life biography
 biography_of_your_life biography
-blablabla
-blablablabla
 blood_hemorrhage hemorrhage
 boat_marina marina
 bonified bona+fide
@@ -508,14 +426,11 @@ cellphone cell+phone
 cemataries cemetaries
 cematary cemetary
 Century century
-certainly
 childrens children+'s
 chomping_at_the_bit champing+at+the+bit
 circle_around circle
 circulated_around circulated
-claerly
 classify_into_groups classify
-clearly
 climb_up climb
 close_proximity proximity
 close_scrutiny scrutiny
@@ -526,10 +441,7 @@ collaborate_together collaborate
 colourful colorful
 colourize colorize
 commuting_back_and_forth commuting
-compleatly
-completely
 completely_unanimous unanimous
-completly
 comply_with obey
 conduct_a_review_of review
 confectionary confectionery
@@ -554,8 +466,6 @@ couldthe could+the
 couldve could+have
 couture_fashion couture
 crewcut crew+cut
-criminey
-cripes
 current_flowing current
 current_incumbent incumbent
 current_passing current
@@ -566,25 +476,9 @@ darn_tootin correct
 dats that+is
 daughter_in_law daughters-in-law
 daughters_in_law daughters-in-law
-definateley
-definately
-definatly
-defineteley
-definetely
-definetly
-definitely_to_be_sure
-definitly
-defintley
 deg degree
-despite_everything
-despite_it_all
 diametrically_opposed opposed
 dicussing discussing
-did_I_tell_you_that
-did_there_appear_to_be was+there # raising verb
-did_there_begin_to_be was+there # raising verb
-did_there_continue_to_be was+there # raising verb
-did_there_seem_to_be was+there # raising verb
 diden't didn't
 didnot did+not
 didnt did+not
@@ -608,10 +502,6 @@ do_not_you_think_you_might will+not+you
 do_not_you_think_you_must should+not+you
 do_not_you_think_you_ought_to should+not+you
 do_not_you_think_you_should should+not+you
-do_there_appear_to_be are+there # raising verb
-do_there_begin_to_be are+there # raising verb
-do_there_continue_to_be are+there # raising verb
-do_there_seem_to_be are+there # raising verb
 do_you_feel_you are+you
 do_you_feel_you_are are+you
 do_you_feel_you_can can+you
@@ -642,10 +532,6 @@ do_you_think_you_should should+you
 do_you_think_you_will will+you
 doctorate_degree doctorate
 doe_snot does+not
-does_there_appear_to_be is+there # raising verb
-does_there_begin_to_be is+there # raising verb
-does_there_continue_to_be is+there # raising verb
-does_there_seem_to_be is+there # raising verb
 does_they do+they
 doesnt does+not
 dog-eat-dog_world vicious+world
@@ -656,8 +542,6 @@ dont do+not
 dontcha do+not+you
 door_jam door+jamb
 due_to_the_fact because
-duh
-duhh
 dunno do+not+know
 e-book ebook
 e-books ebooks
@@ -665,7 +549,6 @@ each_has_their each+has+its
 eachother each+other
 easier_then easier+than
 egg_yoke egg+yolk
-eh
 eighties 80
 electrical_current electric+current
 eliminate_altogether eliminate
@@ -676,12 +559,9 @@ employment_opportunities jobs
 empty_hole hole
 en_mass en+masse
 enclosed_herewith enclosed
-end_result
 english English
 enroute en+route
 entirely_eliminating eliminating
-er
-errmm
 esp_for especially+for
 esp_in especially+in
 et_al and+others
@@ -692,10 +572,7 @@ exact_same same
 exactly_the_same the+same
 explain_to tell
 extend_an_invitation invite
-extreamly
 extreme_hazard hazard
-extremely
-extremly
 faired_badly fared+badly
 faired_better fared+better
 faired_poorly fared+poorly
@@ -720,15 +597,9 @@ flavour flavor
 flavours flavors
 flow_of_current current
 following_below below
-for_a_moment
-for_all_intents_and_purposes
-for_all_that
 for_along_time for+a+long+time
 for_awhile for+a+while
-for_christ_'s_sake
-for_god_'s_sake
 for_quite_awhile for+a+while
-for_the_most_part
 for_the_purpose_of for
 forced_compulsion compulsion
 foreign_imports imports
@@ -742,10 +613,6 @@ free_gift gift
 free_gratis gratis
 free_reign free+rein
 french French
-fricken
-frickin
-fricking
-from_now_on
 fromt_he from+the
 fromthe from+the
 frozen_ice ice
@@ -764,7 +631,6 @@ ginger Ginger
 give_advice_to counsel
 give_and_bequeath bequeath
 glamourous glamorous
-going_forward
 gonna going+to
 good_benefit benefit
 good_riddens good+riddance
@@ -832,7 +698,6 @@ he_himself he
 he_is_a_person_who he
 held_the_reigns held+the+reins
 helluva hell+of+a
-hence_forth
 hermione Hermione
 hesaid he+said
 hewas he+was
@@ -859,42 +724,22 @@ how_long_till how+long+until
 how_so why
 how_the_heck how
 how_ya_doing how+are+you+doing
-however>
 hows how+is
-huh
 hygenic hygienic
 i'ts it's
 i-Pad iPad
 i-Phone iPhone
 I_,_myself_, I
-I_am_convinced_that
-I_am_not_being_funny_but
-I_am_sorry_that
-I_am_sorry_to_hear_that
-I_believe_that
-I_do_not_suppose
-I_do_not_suppose_that
 I_dun I+do+not
-I_figure_that
 I_figure_you you
-I_have_no_doubt_that
-i_have_the_impression_that
 I_have_to I+must
 I_heard_that_you you
 I_heard_you you
-I_imagine_that
 I_imagine_you you
 I_myself I
-I_noticed_that
-I_presume> %QUESTIONMARK
+I_presume> ?
 I_reckon I+think
-I_regret_that
 I_snot is+not
-I_suppose
-I_suppose_that
-I_suppose>
-I_take_it_that
-I_thought_you_might_like_to_know_that
 I_wonder_why_he why+does+he
 I_wonder_why_it why+does+it
 I_wonder_why_she why+does+she
@@ -904,59 +749,29 @@ iam I+am
 ic I+see
 idc I+do+not+care
 idk I+do+not+know
-if_you_ask_me
-if_you_do_not_mind
-if_you_do_not_mind_me_asking
-if_you_know_what_I_mean
 iie no
 im I+
 imminent_at_any_moment imminent
-importantly
-in_a_manner_of_speaking
-in_a_very_real_sense
-in_addition
 in_affect in+effect
 in_an_effort_to to
-in_any_event
 in_awhile in+a+while
 in_back_of behind
-in_brief
-in_fact
-in_god_'s_name
-in_my_opinion
 in_parenthesis in+parentheses
-in_point_of_fact
 in_principal in+principle
 in_quite_awhile in+a+while
 in_re in+reference+to
-in_short
-in_spite_of_everything
 in_spite_of_the_fact_that although
 in_stead_of instead+of
 in_the_absence_of without
 in_the_current_moment now
 in_the_event_that if
 in_the_field_of in
-in_the_final_analysis
-in_the_heck
-in_the_hell
-in_the_name_of_god
-in_the_name_of_jesus
-in_the_nature_of
-in_the_process_of
-in_the_whole_universe
-in_the_whole_wide_universe
-in_the_whole_wide_world
-in_the_whole_world
 in_this_instant now
-in_truth
 in_vein in+vain
 inasmuch in+as+much
 incase_of in+case+of
-indeed
 individual_person individual
 indulgent_patience patience
-infact
 infront in+front
 inquisitive_busybody busybody
 int_he in+the
@@ -966,7 +781,6 @@ inthe in+the
 into_affect into+effect
 invited_guests guests
 inwhich in+which
-irregardless
 is'nt isn't
 is_able_to can
 is_certain_to will
@@ -980,18 +794,8 @@ isnt is+not
 isthe is+the
 it_'s_my_opinion_that I+think
 it_,_itself_, it
-it_has_come_to_my_attention_that
 it_id it+is
-it_is_important_to_know_that
-it_is_important_to_note_that
-it_is_true_that
 it_itself it
-it_occurs_to_me_that
-it_seems
-it_seems_like
-it_seems_that
-it_should_be_noted_that
-it_strikes_me_that
 it_was_a_lark it+was+fun
 it_was_Greek_to_me I+could+not+understand+it
 italian Italian
@@ -1002,7 +806,6 @@ itym I+think+you+mean
 itz it+is
 ive I+have
 ja yes
-jeez
 jive_with jibe+with
 job_functions job
 join_together join
@@ -1013,7 +816,6 @@ karisma charisma
 ketsup catsup
 kewl cool
 kinda kind+of
-kindly
 Klu_Klux_Klan Ku+Klux+Klan
 knowledgeable_experts experts
 large_in_size large
@@ -1038,11 +840,6 @@ lesbian_woman lesbian
 lesbian_women lesbians
 less_that less+than
 less_then less+than
-let_me_see>
-let_me_think_a_minute_here
-let_us_be_honest
-let_us_face_it
-let_us_see
 lets let+us
 lighter_then lighter+than
 like_greased_lightning rapidly
@@ -1084,7 +881,6 @@ might_of_been might+have+been
 might_of_had might+have+had
 mightnt might+not
 milage mileage 
-mind_me_asking
 minuscule miniscule 
 missing_gaps gaps
 mix_together blend
@@ -1117,11 +913,6 @@ my_question_is_why why
 my_question_is_would would
 nada nothing
 NATO_organization NATO
-natuarlly
-naturally
-naturaly
-naturely
-naturually
 near_proximity proximity
 nearly_everything everything
 neath beneath
@@ -1158,10 +949,6 @@ null_and_void void
 nvm nevermind
 ny New+York
 nyc New+York+City
-obviosly
-obviously>
-of_course
-of_course>
 of_the_clock o'clock
 ofits of+its
 oft_he of+the
@@ -1172,19 +959,15 @@ old_customs customs
 old_senior_citizens senior+citizens
 omelet omelette
 on_most_occasions usually
-on_the_whole
 one_and_the_same the+same
 one_in_done one+and+done
 one_in_the_same one+and+the+same
-one_possible_idea_might_be
 oneof one+of
 onepoint one+point
 ont_he on+the
 onthe on+the
-ooh
 opt_for choose
 opted_for chose
-or_something_like_that
 oral_conversation conversation
 orderves hors+d'oeuvre
 organise organize
@@ -1200,7 +983,6 @@ outta out+of
 over_the_duration_of during
 overthe over+the
 overused_cliche cliche
-oy
 PM p.m.
 p.m p.m.
 p.m._in_the_evening p.m.
@@ -1214,7 +996,6 @@ percentof percent+of
 percentto percent+to
 perfectly_legitimate legitimate
 perform_an_assessment_of assess
-period_of
 persay per+se
 persistent_obsession obsession
 personal_friend friend
@@ -1224,7 +1005,6 @@ personal_opinion opinion
 personally_,_I I
 perv pervert
 peut-etre perhaps
-phew
 PIN_number PIN
 pizza_pie pizza
 place_under_water submerge
@@ -1240,8 +1020,6 @@ potentially_capable capable
 pourquoi why
 ppl people
 ppls people
-pray_tell
-pray_tell_me
 pre_planning planning
 present_incumbent incumbent
 previously_listed_above previously+listed
@@ -1255,7 +1033,6 @@ put_fourth put+forth
 put_it_in_a_nutshell condense+it
 puzzling_in_nature puzzling
 que queue
-quite
 raelly really
 rather_then rather+than
 real_actual actual
@@ -1263,13 +1040,10 @@ receded_back receded
 recently_new new
 rectangular_in_shape rectangular
 refer_back refer
-regrettably
 regular_routine routine
 reign_in rein+in
 reigned_in reined+in
 reigns_of_power reins+of+power
-relaly
-remarkably_in_fact
 repeat_again repeat
 resulting_effects effects
 retreating_back retreating
@@ -1288,7 +1062,6 @@ ruling_junta junta
 russian Russian
 safe_haven haven
 safe_sanctuary sanctuary
-said_to_be
 saidhe said+he
 saidit said+it
 saidt_he said+the
@@ -1299,9 +1072,6 @@ scifi science+fiction
 seedling_plant seedling
 serious_danger danger
 seventies 70
-severely
-severley
-severly
 shaddup shut+up
 shalt shall
 shant shall+not
@@ -1359,7 +1129,6 @@ summarize_briefly summarize
 suppose_to supposed+to
 surrounded_on_all_sides surrounded
 surrounding_circumstances circumstances
-sux sucks
 swiss Swiss
 take_a_nap snooze
 take_affect take+effect
@@ -1373,8 +1142,6 @@ tell_me_what_your what+is+your
 tellt_he tell+the
 temporary_reprieve reprieve
 tennisplayer tennis+player
-that_exists
-that_is_how_I_see_it
 that_maybe that+may+be
 thats that+is
 the_african_continent Africa
@@ -1384,18 +1151,12 @@ the_central_american_continent Central+America
 the_crack_of_dawn dawn
 the_eighties 1980s
 the_european_continent Europe
-the_fact_is
-the_fact_of_the_matter_is
 the_fifties 1950s
 the_forties 1940s
-the_fuck
 the_future_to_come the+future
 the_had they+had
-the_heck
-the_hell
 the_nineties 1980s
 the_north_american_continent north+america
-the_point_I_am_trying_to_make_is_that
 the_question_is_are are
 the_question_is_can can
 the_question_is_could could
@@ -1426,7 +1187,6 @@ themself themselves
 themselfs themselves
 thenew the+new
 there_is_no_doubt_but_that no+doubt
-therefore
 theres there+is
 thesame the+same
 thetwo the+two
@@ -1446,30 +1206,20 @@ thx thanks
 thy your
 til until
 times_up your+time+is+up
-to_be_fair
-to_be_honest
-to_be_honest_with_you
 to_g to+go
 to_make_a_long_story_short to+summarize
-to_my_way_of_thinking
 to_setup to+set+up
-to_the_best_of_my_knowledge
 todays today+'s
 toldt_he told+the
-too> 
 took_affect took+effect
 took_the_reigns took+the+reins
 tookover took+over
 tot_he to+the
 total_destruction destruction
-totally
-totaly
-totalyl
 tothe to+the
 tptb the+powers+that+be
 tried_and_true proven
 true_facts facts
-trust_me_when_I_tell_you
 try_and_find try+to+find
 try_and_get try+to+get
 try_and_see try+to+see
@@ -1478,24 +1228,12 @@ twas it+was
 twenties 20
 two-man_tandem tandem
 two-person_tandem tandem
-ugh
-uh
-uhh
-uhm
-uhmm
-uhmn
 ultimate_goal goal
-um
-umm
-ummm
-ummmm
 under_the_weather sick
 undergraduate_student student
 undert_he under+the
 unexpected_emergency emergency
 unexpected_surprise surprise
-unforetunately
-unfortunately
 unhealthy_sickness sickness
 UnitedStates United+States
 Unites_States United+States
@@ -1506,7 +1244,6 @@ unnecessary_redundancies redundancies
 unsolved_mystery mystery
 usual_custom custom
 vacillating_back_and_forth vacillating
-very
 VIN_number VIN
 visible_with_your_own_eyes visible
 wa_snot was+not
@@ -1535,10 +1272,6 @@ what_brings_you_in why+are+you+in
 what_brings_you_into why+are+you+into
 what_brings_you_out why+are+you+out
 what_brings_you_to why+are+you+at
-what_I_am_trying_to_say_is
-what_I_am_trying_to_say_is_that
-what_I_mean_is
-what_I_mean_to_say_is_that
 what_in_hell what
 what_in_the_heck what
 what_in_the_hell what
@@ -1546,7 +1279,6 @@ what_in_the_world what
 what_is_going_on_in what+is+happening+in
 what_is_u what+is+your
 what_the_heck what
-what_we_call
 whateva whatever
 whatevah whatever
 whats what+is
@@ -1608,10 +1340,8 @@ will_of_had will+have+had
 willbe will+be
 willya will+you
 witcha with+you
-with_all_due_respect
 with_au_jus au+jus
 witha with+a
-without_doubt
 withregards with+regards
 witht_he with+the
 withthe with+the
@@ -1633,8 +1363,6 @@ wouldnt would+not
 wreck_havoc wreak+havoc
 xmas Christmas
 Xmas Christmas
-yadayada
-yadayadayada
 yessum yes+Madam
 yo_mamm your+mother
 yo_momma your+mother
@@ -1642,10 +1370,7 @@ you_,_yourself_, you
 you_,_yourselves_, you
 you_are_saying_that_you you
 you_are_saying_you you
-you_can_trust_me_when_I_tell_you
-you_have_probably_already_thought_of_this_,_but
 you_have_to you+must
-you_know_how_it_is
 you_re you+are
 you_reckon you+think
 you_this_afternoon you
@@ -1664,8 +1389,17 @@ yourselve yourself
 yourslef yourself
 youself yourself
 youthful_teenagers teenagers
-ypu you
-yu you
-yuor your
 government_comprised_of government+composed+of
 it_is_probable_that probably
+did_there_appear_to_be was+there # raising verb
+did_there_begin_to_be was+there # raising verb
+did_there_continue_to_be was+there # raising verb
+did_there_seem_to_be was+there # raising verb
+do_there_appear_to_be are+there # raising verb
+do_there_begin_to_be are+there # raising verb
+do_there_continue_to_be are+there # raising verb
+do_there_seem_to_be are+there # raising verb
+does_there_appear_to_be is+there # raising verb
+does_there_begin_to_be is+there # raising verb
+does_there_continue_to_be is+there # raising verb
+does_there_seem_to_be is+there # raising verb
