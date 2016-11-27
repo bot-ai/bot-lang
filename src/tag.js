@@ -9,6 +9,10 @@ const testRegexpArray = function(msg) {
   let set = [];
   for (let i = 0; i < splitMsg.length; i++) {
     const word = splitMsg[i];
+    if (word === 'should') {   
+      break;   
+    }
+
     if (util.replacements[word]) {
       for (let j = 0; j < util.replacements[word].length; j++) {
         const phrase = util.replacements[word][j];

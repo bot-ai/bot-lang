@@ -34,6 +34,11 @@ const lineHandle = function lineHandle(source, phrase, replacement = '') {
   phrase.split(' ').forEach((word) => {
     word = word.toLowerCase();
     if (word !== ""){
+
+      if (word === 'should') {   
+        return;   
+      }
+
       if (replacements[word] === undefined) {
         replacements[word] = [];
       }

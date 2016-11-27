@@ -47,13 +47,15 @@ const testRegexpArray = function(msg = "") {
 
   let splitMsg = msg.toLowerCase().split(' ');
   splitMsg.some((word) => {
-    if (util.replacements[word]) {
-      util.replacements[word].some((phrase) => {
-        // console.log(`Testing "${phrase.phrase}"`);
-        let prevMsg = msg;
-        msg = msg.replace(phrase.phraseRegex, phrase.replacementRegex);
-        if (msg === "" || msg === " ") msg = prevMsg;
-      });
+    if (word !== 'should') {
+      if (util.replacements[word]) {
+        util.replacements[word].some((phrase) => {
+          // console.log(`Testing "${phrase.phrase}"`);
+          let prevMsg = msg;
+          msg = msg.replace(phrase.phraseRegex, phrase.replacementRegex);
+          if (msg === "" || msg === " ") msg = prevMsg;
+        });
+      }
     }
   });
 

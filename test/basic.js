@@ -49,6 +49,8 @@ describe('Bot-Lang', function(){
       assert.equal(lang.replace.all("do n't make it right"), "do not make it right");
       assert.equal(lang.replace.all("it's all good"), "it is all good");
       assert.equal(lang.replace.all("What's up"), "what is up");
+      // should check
+      assert.equal(lang.replace.all("you shouldn't have"), "you should not have");
     });
 
     it("should swap british / canadian words", function() {
