@@ -2,6 +2,9 @@ var mocha = require("mocha");
 var assert = require("assert");
 var norm = require("../src/index");
 var tag = require("../src/tag");
+var replace = require("../src/replace");
+
+import clean from "../src/clean";
 
 describe('Bot-Lang', function(){
   var startTime;
@@ -18,71 +21,78 @@ describe('Bot-Lang', function(){
 
   describe('Should clean input', function() {
 
-    it("should replace subsitutes", function() {
-      assert.equal(norm.clean("Nov 1st"), "November 1st");
-      assert.equal(norm.clean("Nov 1st I weighed 90 kgs. total"), "November 1st I weighed 90 kilograms total");
-      assert.equal(norm.clean("I shared it on FB w/ friends, ie: you"), "I shared it on Facebook with friends, for example : you");
-    });
-
-    it("should expand contractions", function() {
-      assert.equal(norm.clean("I'm on the yelow zebra"), "I am on the yellow zebra");
-      assert.equal(norm.clean("I'll listen to y'all"), "I will listen to you all");
-      assert.equal(norm.clean("do n't make it right"), "do not make it right");
-      assert.equal(norm.clean("it's all good"), "it is all good");
-    });
-
-    it("should swap british / canadian words", function() {
-      assert.equal(norm.clean("armour axe coloured gold"), "armor ax colored gold");
-    });
-
-    it("should fix spelling", function() {
-      assert.equal(norm.clean("are we sceduled thrsday for teh restraunt"), "are we scheduled Thursday for the restaurant");
-    });
-
-    it("should clean this", function() {
-      assert.equal(norm.clean("Well , I could not help it, could I"), "I could not help it, could I")
-    });
-
     it("should not remove +", function() {
-      assert.equal(norm.clean("3+4=7"), "3+4=7");
+      assert.equal(clean.all("3+4=7"), "3+4=7");
     });
 
     it("should remove extra spaces", function() {
-      assert.equal(norm.clean("this    is     spaced     out"), "this is spaced out");
+      assert.equal(clean.all("this    is     spaced     out"), "this is spaced out");
     });
 
     it("Fix numbers", function() {
-      assert.equal(norm.clean("how much is 1,000.00"), "how much is 1000.00");
-    });
-
-    it("Spell Fix 2 word combo", function() {
-      assert.equal(norm.clean("hwo do you"), "how do you");
-      assert.equal(norm.clean("hwo is you"), "who is you");
+      assert.equal(clean.all("how much is 1,000.00"), "how much is 1000.00");
     });
 
     it("Fix ASCII characters", function() {
-      assert.equal(norm.clean("What’s up"), "what is up");
-      assert.equal(norm.clean("What's up"), "what is up");
-      assert.equal(norm.clean("I said “shut up”"), 'I said "shut up"');
-      assert.equal(norm.clean("œ"), '');
+      assert.equal(clean.all("What’s up"), "What's up");
+      assert.equal(clean.all("I said “shut up”"), 'I said "shut up"');
+      assert.equal(clean.all("œ"), '');
+    });
+  });
+
+
+  describe('Replace Interface', function() {
+    it("should replace subsitutes", function() {
+      assert.equal(replace.all("Nov 1st"), "November 1st");
+      assert.equal(replace.all("Nov 1st I weighed 90 kgs. total"), "November 1st I weighed 90 kilograms total");
+      assert.equal(replace.all("I shared it on FB w/ friends, ie: you"), "I shared it on Facebook with friends, for example : you");
     });
 
+    it("should expand contractions", function() {
+      assert.equal(replace.all("I'm on the yelow zebra"), "I am on the yellow zebra");
+      assert.equal(replace.all("I'll listen to y'all"), "I will listen to you all");
+      assert.equal(replace.all("do n't make it right"), "do not make it right");
+      assert.equal(replace.all("it's all good"), "it is all good");
+      assert.equal(replace.all("What's up"), "what is up");
+    });
+
+    it("should swap british / canadian words", function() {
+      assert.equal(replace.all("armour axe coloured gold"), "armor ax colored gold");
+    });
+
+    it("should fix spelling", function() {
+      assert.equal(replace.all("are we sceduled thrsday for teh restraunt"), "are we scheduled Thursday for the restaurant");
+    });
+
+    it("should clean this", function() {
+      assert.equal(replace.all("Well , I could not help it, could I"), "I could not help it, could I")
+    });
+
+    it("Spell Fix 2 word combo", function() {
+      assert.equal(replace.all("hwo do you"), "how do you");
+      assert.equal(replace.all("hwo is you"), "who is you");
+    });
   });
 
   
-  describe('Tagging', function() {
+  describe('Tagging Interface', function() {
   
     it("should tag input", function() {
-      assert.equal(tag.testInput("yes", "I am sure"), true);
-      assert.equal(tag.testInput("yes", "Nope"), false, "yes is not nope");
-      assert.equal(tag.testInput("no", "Nope"), true);
-      assert.equal(tag.testInput("apology", "well excuse me princess"), false);
-      assert.equal(tag.testInput("apology", "excuse me princess"), true);
+      assert.equal(tag.test("yes", "I am sure"), true);
+      assert.equal(tag.test("yes", "Nope"), false, "yes is not nope");
+      assert.equal(tag.test("no", "Nope"), true);
+      assert.equal(tag.test("apology", "well excuse me princess"), false);
+      assert.equal(tag.test("apology", "excuse me princess"), true);
     });
 
     it("should have all", function() {
-      assert.deepEqual(tag.testAll("eww , shut up , I have to go"), [ 'disgust', 'goodbye', 'stop' ]);
+      assert.deepEqual(tag.all("eww , shut up , I have to go"), [ 'disgust', 'goodbye', 'stop' ]);
     });
+
+    it("should have emoji", function() {
+      assert.deepEqual(tag.all(":wave: :one: :heart:"), []);
+    });
+
   });
   
 });

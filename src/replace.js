@@ -1,19 +1,7 @@
 import fs from "fs";
 import path from "path";
 import util from "./util";
-
-const re1 = new RegExp(/\+/g);
-const re2 = new RegExp(/\t/g);
-const re3 = new RegExp(/\s+/g);
-const re4 = new RegExp(/(’|‘)/g);
-const re5 = new RegExp(/(“|”)/g);
-const re6 = new RegExp(/(–|—)/g);
-const re7 = new RegExp(/[^\x00-\x7F]/g);
-const re8 = new RegExp(/[\+]{1}/g);
-const re9 = new RegExp(/<plus>/g);
-const re10 = new RegExp(/\d,\d/g);
-const re11 = new RegExp(/_/g);
-
+import clean from "./clean";
 
 exports.contraction = function(input) {
   util.prepFile("replace/contractions.txt");
@@ -35,7 +23,7 @@ exports.british = function(input) {
   return testRegexpArray(input); 
 }
 
-exports.loadAll = function(input) {
+exports.all = function(input) {
   util.prepFile("replace/contractions.txt");
   util.prepFile("replace/spellfix.txt");
   util.prepFile("replace/british.txt");
@@ -45,13 +33,7 @@ exports.loadAll = function(input) {
 
 
 const testRegexpArray = function(msg = "") {
-  msg = msg.replace(re1, '<plus>');
-  msg = msg.replace(re2, ' ');
-  msg = msg.replace(re3, ' ');
-  msg = msg.replace(re4, "'");
-  msg = msg.replace(re5, '"');
-  msg = msg.replace(re6, '—');
-  msg = msg.replace(re7, '');
+  msg = clean.pre(msg);
 
   let splitMsg = msg.toLowerCase().split(' ');
   splitMsg.some((word) => {
@@ -63,10 +45,7 @@ const testRegexpArray = function(msg = "") {
     }
   });
 
-  msg = msg.replace(re8, ' ');
-  msg = msg.replace(re9, '+');
-  msg = msg.replace(re11, ' ');
-  msg = msg.replace(re10, v => v.replace(',', ''));
+  msg = clean.post(msg);
 
   return msg.trim();
 }

@@ -32,7 +32,7 @@ const filterTag = function(a = []) {
   });
 }
 
-exports.testAll = function(input) {
+exports.all = function(input) {
   let p = path.join(__dirname, "../data/tag/");
   const files = fs.readdirSync(p);
   for (let i = 0; i < files.length; i++) {
@@ -42,7 +42,7 @@ exports.testAll = function(input) {
   return filterTag(testRegexpArray(input));
 }
 
-exports.testInput = function(fileString, input) {
+exports.test = function(fileString, input) {
   if (fileString.slice(-4) !== ".txt") {
     fileString += ".txt";
   }
