@@ -20,7 +20,6 @@ describe('Bot-Lang', function(){
   })
 
   describe('Should clean input', function() {
-
     it("should not remove +", function() {
       assert.equal(clean.all("3+4=7"), "3+4=7");
     });
@@ -38,10 +37,8 @@ describe('Bot-Lang', function(){
       assert.equal(clean.all("I said “shut up”"), 'I said "shut up"');
       assert.equal(clean.all("œ"), '');
       assert.equal(clean.all("😊"), '😊');
-      
     });
   });
-
 
   describe('Replace Interface', function() {
     it("should replace subsitutes", function() {
@@ -86,7 +83,6 @@ describe('Bot-Lang', function(){
   });
 
   describe('Tagging Interface', function() {
-  
     it("should tag input", function() {
       assert.equal(tag.test("yes", "I am sure"), true);
       assert.equal(tag.test("yes", "Nope"), false, "yes is not nope");
