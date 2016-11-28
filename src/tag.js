@@ -16,7 +16,6 @@ const testRegexpArray = function(msg) {
     if (util.replacements[word]) {
       for (let j = 0; j < util.replacements[word].length; j++) {
         const phrase = util.replacements[word][j];
-        // console.log(`Testing "${phrase.phrase}"`);
         if (phrase.phraseRegex.test(msg)) {
           set.push(phrase.source);
           break;

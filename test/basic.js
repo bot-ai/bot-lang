@@ -2,6 +2,12 @@ var mocha = require("mocha");
 var assert = require("assert");
 import lang from "../src";
 
+lang.util.prepFile("replace/contractions.txt");
+lang.util.prepFile("replace/spellfix.txt");
+lang.util.prepFile("replace/british.txt");
+lang.util.prepFile("replace/substitutes.txt");
+lang.util.prepFile("replace/frivolous.txt");
+
 describe('Bot-Lang', function(){
   var startTime;
 
@@ -18,6 +24,10 @@ describe('Bot-Lang', function(){
   describe('Should clean input', function() {
     it("should not remove +", function() {
       assert.equal(lang.clean.all("3+4=7"), "3+4=7");
+    });
+
+    it("should not remove double underbar", function() {
+      assert.equal(lang.clean.all("__B__"), "__B__");
     });
 
     it("should remove extra spaces", function() {
@@ -83,7 +93,7 @@ describe('Bot-Lang', function(){
   describe('Tagging Interface', function() {
     it("should tag input", function() {
       assert.equal(lang.tag.test("yes", "I am sure"), true);
-      assert.equal(lang.tag.test("yes", "Nope"), false, "yes is not nope");
+      assert.equal(lang.tag.test("yes", "Nope"), false );
       assert.equal(lang.tag.test("no", "Nope"), true);
       assert.equal(lang.tag.test("apology", "well excuse me princess"), false);
       assert.equal(lang.tag.test("apology", "excuse me princess"), true);

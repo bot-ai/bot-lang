@@ -8,7 +8,7 @@ const re7 = new RegExp(/[\u00A1-\u1EF3]/g)
 const re8 = new RegExp(/[\+]{1}/g);
 const re9 = new RegExp(/<plus>/g);
 const re10 = new RegExp(/\d,\d/g);
-const re11 = new RegExp(/_/g);
+// const re11 = new RegExp(/_/g);
 
 const pre = function(msg = '') {
   msg = msg.replace(re1, '<plus>');
@@ -25,7 +25,7 @@ const pre = function(msg = '') {
 const post = function(msg = '') {
   msg = msg.replace(re8, ' ');
   msg = msg.replace(re9, '+');
-  msg = msg.replace(re11, ' ');
+  // msg = msg.replace(re11, ' ');
   msg = msg.replace(re10, v => v.replace(',', ''));
   return msg;  
 }

@@ -401,7 +401,7 @@ blood_hemorrhage hemorrhage
 boat_marina marina
 bonified bona+fide
 bout about
-boo+ya hooray
+boo_ya hooray
 boyfriends_' boyfriend+'s
 bro brother
 brother_in_law brother-in-law
