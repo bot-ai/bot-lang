@@ -50,10 +50,12 @@ const testRegexpArray = function(msg = "") {
     if (word !== 'should') {
       if (util.replacements[word]) {
         util.replacements[word].some((phrase) => {
-          // console.log(`Testing "${phrase.phrase}"`);
-          let prevMsg = msg;
-          msg = msg.replace(phrase.phraseRegex, phrase.replacementRegex);
-          if (msg === "" || msg === " ") msg = prevMsg;
+          // console.log(`Testing "${word} - ${phrase.phrase}"`);
+          if (phrase.source.indexOf('replace') !== -1) {
+            let prevMsg = msg;            
+            msg = msg.replace(phrase.phraseRegex, phrase.replacementRegex);
+            if (msg === "" || msg === " ") msg = prevMsg;            
+          }
         });
       }
     }

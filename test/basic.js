@@ -2,12 +2,6 @@ var mocha = require("mocha");
 var assert = require("assert");
 import lang from "../src";
 
-lang.util.prepFile("replace/contractions.txt");
-lang.util.prepFile("replace/spellfix.txt");
-lang.util.prepFile("replace/british.txt");
-lang.util.prepFile("replace/substitutes.txt");
-lang.util.prepFile("replace/frivolous.txt");
-
 describe('Bot-Lang', function(){
   var startTime;
 
@@ -105,6 +99,13 @@ describe('Bot-Lang', function(){
 
     it("should have emoji", function() {
       assert.deepEqual(lang.tag.all(":wave: :one: :heart:"), ['slack_emoji_people', 'slack_emoji_symbols']);
+    });
+  });
+
+  describe('Edge cases', function() {
+    it('edge case 1', () => {
+      assert.equal(lang.replace.all("okay my name is Adam"), "okay my name is Adam");
+      assert.equal(lang.replace.all("yes it is the capital of spain"), "yes it is the capital of spain");
     });
   });
 });
