@@ -1,15 +1,15 @@
-import fs from "fs";
-import path from "path";
+import fs from 'fs';
+import path from 'path';
 
 const dataDir = path.join(__dirname, '../data/');
 const re11 = new RegExp(/_/g);
 const replacements = {};
 const fileCache = [];
 
-const quotemeta = function (string) {
-  const unsafe = "\\.+*?[^]$(){}=!<>|:";
+const quotemeta = function quotemeta(string) {
+  const unsafe = '\\.+*?[^]$(){}=!<>|:';
   for (let i = 0; i < unsafe.length; i++) {
-    string = string.replace(new RegExp("\\" + unsafe.charAt(i), "g"), "\\" + unsafe.charAt(i));
+    string = string.replace(new RegExp(`\\${unsafe.charAt(i)}`, 'g'), `\\${unsafe.charAt(i)}`);
   }
   return string;
 };
@@ -33,10 +33,9 @@ const lineHandle = function lineHandle(source, phrase, replacement = '') {
 
   phrase.split(' ').forEach((word) => {
     word = word.toLowerCase();
-    if (word !== ""){
-
-      if (word === 'should') {   
-        return;   
+    if (word !== '') {
+      if (word === 'should') {
+        return;
       }
 
       if (replacements[word] === undefined) {
@@ -60,15 +59,15 @@ const lineHandle = function lineHandle(source, phrase, replacement = '') {
         replacementRegex = `$1${replacement}$2`;
       }
 
-      replacements[word].push({ phrase, replacement, phraseRegex, replacementRegex, source});
-      replacements[word].sort((a, b) => (b.phrase.split(' ').length - a.phrase.split(' ').length));    
+      replacements[word].push({ phrase, replacement, phraseRegex, replacementRegex, source });
+      replacements[word].sort((a, b) => (b.phrase.split(' ').length - a.phrase.split(' ').length));
     }
   });
 };
 
-const textFile = function(file) {
-  const source = file.replace(".txt", "");
-  const data = fs.readFileSync(dataDir + file, 'utf8').split(/\r|\n/);  
+const textFile = (file) => {
+  const source = file.replace('.txt', '');
+  const data = fs.readFileSync(dataDir + file, 'utf8').split(/\r|\n/);
 
   for (let i = 0; i < data.length; i++) {
     const line = data[i];
@@ -93,38 +92,36 @@ const textFile = function(file) {
   }
 
   fileCache.push(file);
-}
+};
 
 /**
  * The default json format is and array of objects with a phase / replacement keys
  * key = replacement and value is the match phrase.
  */
-const jsonFile = function(file) {
-  var d = [];
-  const source = file.replace(".json", "");
-  var contents = require(dataDir + file);
-  for (let i = 0; i < contents.length; i++) {
-    const phrase = contents[i].phrase;
-    const replacement = contents[i].replacement;
+const jsonFile = (file) => {
+  const source = file.replace('.json', '');
+  const contents = fs.readFileSync(dataDir + file, 'utf8');
+  const data = JSON.parse(contents);
+  for (let i = 0; i < data.length; i++) {
+    const phrase = data[i].phrase;
+    const replacement = data[i].replacement;
     lineHandle(source, phrase, replacement);
   }
-}
+};
 
-const prepFile = function(file) {
+const prepFile = function prepFile(file) {
   if (fileCache.indexOf(file) === -1) {
-    if (file.indexOf(".txt") !== -1) {
+    if (file.indexOf('.txt') !== -1) {
       textFile(file);
-    } else if (file.indexOf(".json") !== -1) {
+    } else if (file.indexOf('.json') !== -1) {
       jsonFile(file);
     }
   }
-}
+};
 
-const uniq = function(a) {
-  return a.sort().filter(function(item, pos, ary) {
-    return !pos || item != ary[pos - 1];
-  })
-}
+const uniq = function uniq(a) {
+  return a.sort().filter((item, pos, ary) => !pos || item !== ary[pos - 1]);
+};
 
 
-export default {prepFile, quotemeta, replacements, uniq};
+export default { prepFile, quotemeta, replacements, uniq };
