@@ -57,6 +57,7 @@ describe('Bot-Lang', () => {
       assert.equal(lang.replace.all("What's up"), 'what is up');
       // should check
       assert.equal(lang.replace.all("you shouldn't have"), 'you should not have');
+      assert.equal(lang.replace.all('you should go'), 'you should go');
     });
 
     it('should swap british / canadian words', () => {

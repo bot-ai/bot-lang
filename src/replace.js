@@ -6,19 +6,17 @@ const testRegexpArray = (msg = '') => {
 
   const splitMsg = msg.toLowerCase().split(' ');
   splitMsg.forEach((word) => {
-    if (word !== 'should') {
-      if (util.replacements[word]) {
-        util.replacements[word].forEach((phrase) => {
-          // console.log(`Testing "${word} - ${phrase.phrase}"`);
-          if (phrase.source.indexOf('replace') !== -1) {
-            const prevMsg = msg;
-            msg = msg.replace(phrase.phraseRegex, phrase.replacementRegex);
-            if (msg === '' || msg === ' ') {
-              msg = prevMsg;
-            }
+    if (util.replacements[word]) {
+      util.replacements[word].forEach((phrase) => {
+        // console.log(`Testing "${word} - ${phrase.phrase}"`);
+        if (phrase.source.indexOf('replace') !== -1) {
+          const prevMsg = msg;
+          msg = msg.replace(phrase.phraseRegex, phrase.replacementRegex);
+          if (msg === '' || msg === ' ') {
+            msg = prevMsg;
           }
-        });
-      }
+        }
+      });
     }
   });
 
