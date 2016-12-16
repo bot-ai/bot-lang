@@ -15,7 +15,6 @@ const testRegexpArray = (msg) => {
         const phrase = util.replacements[word][j];
         if (phrase.phraseRegex.test(msg)) {
           set.push(phrase.source);
-          break;
         }
       }
     }
