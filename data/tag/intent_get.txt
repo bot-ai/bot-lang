@@ -1,0 +1,32 @@
+# These are past tense verbs for aquiring an item
+# meaning the items is now in the persons possession.
+# John <picked up> the ball
+
+accrued
+accumulated
+acquired
+adopted
+appropriated
+batched
+collected
+compensated
+exacted
+found
+garnered
+gathered
+got
+grabed
+griped
+hunted
+obtained
+picked_up
+recompensed
+recovered
+regained
+remunerated
+repaied
+retrieved
+served
+stockpiled
+took_up
+took

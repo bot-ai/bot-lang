@@ -1,0 +1,53 @@
+# These are past tense verbs for moving to a location
+# meaning that the person is now at the location speficied.
+# John <went to> the kitchen
+
+#General traveled to
+traveled_to
+traveled_back_to
+journeyed_to
+journeyed_back_to
+went_back_to
+went_to
+moved_to
+moved_back_to
+relocated_to
+relocated_back_to
+visited
+vacationed
+
+# Move_by vehicle verbs
+a_balloon_to
+ballooned_to
+a_boat_to
+boated_to
+a_bobsled_to
+a_bobsleigh_to
+too_a_bus_to
+bussed_to
+a_cab_to
+cabbed_to
+a_caravan_to
+caravaned_to
+charted_to
+a_dogsleigh_to
+dogsled_to
+a_ferry_to
+ferried_to
+gondola_to
+helicoptered_to
+a_jeep_to
+a_jet_to
+moped_to
+a_rickshaw_to
+rickshawed_to
+ride_to
+rocketed_to
+sledge_to
+a_taxi_to
+a_tram_to
+a_trolley_to
+a_yacht_to
+drove_to
+piloted_to
+raced_to

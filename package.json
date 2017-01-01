@@ -9,7 +9,7 @@
   "scripts": {
     "build": "babel src --presets babel-preset-es2015 --out-dir lib",
     "prepublish": "npm run build",
-    "test": "mocha --compilers js:babel-register test/basic.js -R spec -t 4000",
+    "test": "mocha --compilers js:babel-register test/basic.js -R spec -t 10000 -s 1700",
     "test-travis": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha -- --compilers js:babel-register -R spec test -s 1700 -t 4000"
   },
   "repository": {

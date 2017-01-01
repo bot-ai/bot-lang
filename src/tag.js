@@ -5,8 +5,8 @@ import util from "./util";
 const dataDir = path.join(__dirname, '../data/tag/');
 
 const testRegexpArray = function(msg) {
-  let splitMsg = msg.toLowerCase().split(' ');
-  let set = [];
+  const splitMsg = msg.toLowerCase().split(' ');
+  const set = [];
   for (let i = 0; i < splitMsg.length; i++) {
     const word = splitMsg[i];
     if (word === 'should') {   
@@ -14,13 +14,10 @@ const testRegexpArray = function(msg) {
     }
 
     if (util.replacements[word]) {
-      for (let j = 0; j < util.replacements[word].length; j++) {
-        const phrase = util.replacements[word][j];
-        if (phrase.phraseRegex.test(msg)) {
-          set.push(phrase.source);
-          break;
-        }
-      }
+      let x = util.replacements[word].filter((phrase) => {
+        return phrase.phraseRegex.test(msg);
+      })
+      x.forEach((phrase) => {set.push(phrase.source)});
     }
   }
   return util.uniq(set);
