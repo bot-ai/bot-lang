@@ -114,17 +114,17 @@ describe('Bot-Lang', () => {
     });
   });
 
-  describe('Tagging Intents', function() {
-    it("should tag intent 1", function() {
-      assert.deepEqual(lang.tag.all("John went to the kitchen"), ["intent_move"]);
+  describe('Tagging Intents', () => {
+    it('should tag intent 1', () => {
+      assert.deepEqual(lang.tag.all('John went to the kitchen'), ['intent_move']);
     });
 
-    it("should tag intent 2", function() {
-      assert.deepEqual(lang.tag.all("John got the ball"), ['intent_get']);
+    it('should tag intent 2', () => {
+      assert.deepEqual(lang.tag.all('John got the ball'), ['intent_get']);
     });
 
-    it.skip("should tag intent 3", function() {
-      assert.equal(lang.tag.test("intent_move", "John went to the kitchen"), true);
+    it.skip('should tag intent 3', () => {
+      assert.equal(lang.tag.test('intent_move', 'John went to the kitchen'), true);
     });
   });
 

@@ -14,6 +14,8 @@ const files = [
   'help.txt',
   'howisit.txt',
   'ignorance.txt',
+  'intent_get.txt',
+  'intent_move.txt',
   'laugh.txt',
   'maybe.txt',
   'misunderstand.txt',
@@ -45,12 +47,8 @@ const testRegexpArray = (msg) => {
       replacements = util.replacements[cleanedWord];
     }
     if (replacements) {
-      for (let j = 0; j < replacements.length; j++) {
-        const phrase = replacements[j];
-        if (phrase.phraseRegex.test(msg)) {
-          set.push(phrase.source);
-        }
-      }
+      const replacementsMade = replacements.filter(phrase => phrase.phraseRegex.test(msg));
+      replacementsMade.forEach(phrase => set.push(phrase.source));
     }
   }
   return util.uniq(set);
