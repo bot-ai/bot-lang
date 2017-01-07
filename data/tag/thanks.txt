@@ -29,3 +29,9 @@
 <thanks_to_you_all
 <thanks_very_much
 <why_thank_you
+<ta
+<ta_very_much
+<tnx
+<tx
+<ty
+<tyvm

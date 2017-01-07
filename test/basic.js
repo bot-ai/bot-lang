@@ -85,6 +85,10 @@ describe('Bot-Lang', () => {
       assert.equal(lang.replace.all('hwo do you'), 'how do you');
       assert.equal(lang.replace.all('hwo is you'), 'who is you');
     });
+
+    it('should convert text speak into English', () => {
+      assert.equal(lang.replace.all('ik wats goin on coz I can c u'), 'I know what is going on because I can see you');
+    });
   });
 
   describe('Tagging Interface', () => {
@@ -103,6 +107,10 @@ describe('Bot-Lang', () => {
 
     it('should have emoji', () => {
       assert.deepEqual(lang.tag.all(':wave: :one: :heart:'), ['slack_emoji_people', 'slack_emoji_symbols']);
+    });
+
+    it('should tag text emoji', () => {
+      assert.deepEqual(lang.tag.all("xD :'( :o"), ['laugh', 'sad', 'surprise']);
     });
   });
 
@@ -124,6 +132,17 @@ describe('Bot-Lang', () => {
     it('edge case 1', () => {
       assert.equal(lang.replace.all('okay my name is Adam'), 'okay my name is Adam');
       assert.equal(lang.replace.all('yes it is the capital of spain'), 'yes it is the capital of spain');
+    });
+
+    it('should fix word with punctuation before or after it', () => {
+      assert.equal(lang.replace.all('colour?'), 'color?');
+      assert.equal(lang.replace.all('...Sept'), '...September');
+      assert.equal(lang.replace.all('...aluminium, my favourite!!'), '...aluminum, my favorite!!');
+    });
+
+    it('should tag words with puntuation before or after it', () => {
+      assert.deepEqual(lang.tag.all('haha!'), ['laugh']);
+      assert.deepEqual(lang.tag.all('...omg!'), ['surprise']);
     });
   });
 });

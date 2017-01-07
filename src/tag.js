@@ -1,18 +1,52 @@
-import fs from 'fs';
-import path from 'path';
 import util from './util';
 
-const dataDir = path.join(__dirname, '../data/tag/');
+// Avoid a file system hit every time we call tag.all by listing ahead of time
+// all the tag files
+const files = [
+  'angry.txt',
+  'apology.txt',
+  'beg.txt',
+  'bored.txt',
+  'disgust.txt',
+  'goodbye.txt',
+  'happy.txt',
+  'hello.txt',
+  'help.txt',
+  'howisit.txt',
+  'ignorance.txt',
+  'laugh.txt',
+  'maybe.txt',
+  'misunderstand.txt',
+  'mutual.txt',
+  'no.txt',
+  'pain.txt',
+  'protest.txt',
+  'sad.txt',
+  'skeptic.txt',
+  'slack_emoji_nature.txt',
+  'slack_emoji_objects.txt',
+  'slack_emoji_people.txt',
+  'slack_emoji_places.txt',
+  'slack_emoji_symbols.txt',
+  'stop.txt',
+  'surprise.txt',
+  'thanks.txt',
+  'yes.txt',
+];
 
 const testRegexpArray = (msg) => {
   const splitMsg = msg.toLowerCase().split(' ');
   const set = [];
   for (let i = 0; i < splitMsg.length; i++) {
     const word = splitMsg[i];
-
-    if (util.replacements[word]) {
-      for (let j = 0; j < util.replacements[word].length; j++) {
-        const phrase = util.replacements[word][j];
+    let replacements = util.replacements[word];
+    if (!replacements) {
+      const cleanedWord = util.cleanWord(word);
+      replacements = util.replacements[cleanedWord];
+    }
+    if (replacements) {
+      for (let j = 0; j < replacements.length; j++) {
+        const phrase = replacements[j];
         if (phrase.phraseRegex.test(msg)) {
           set.push(phrase.source);
         }
@@ -28,7 +62,6 @@ const filterTag = (a = []) => {
 };
 
 const all = function all(input) {
-  const files = fs.readdirSync(dataDir);
   for (let i = 0; i < files.length; i++) {
     util.prepFile(`tag/${files[i]}`);
   }

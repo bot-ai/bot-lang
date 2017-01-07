@@ -119,5 +119,11 @@ const uniq = function uniq(a) {
   return a.sort().filter((item, pos, ary) => !pos || item !== ary[pos - 1]);
 };
 
+const CLEAN_REGEX = /[\w'-]+/i;
 
-export default { prepFile, quotemeta, replacements, uniq };
+const cleanWord = (word = '') => {
+  const matches = word.match(CLEAN_REGEX);
+  return matches ? matches[0] : word;
+};
+
+export default { cleanWord, prepFile, quotemeta, replacements, uniq };

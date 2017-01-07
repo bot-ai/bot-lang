@@ -1,4 +1,4 @@
-Jan January 
+Jan January
 Jan. January
 Jul. July
 Jun June
@@ -582,7 +582,7 @@ faired_worse fared+worse
 farther_then farther+than
 faster_then faster+than
 father_in_law father-in-law
-fathers_in_law fathers-in-law 
+fathers_in_law fathers-in-law
 fav favorite
 fave favorite
 favourite favorite
@@ -644,7 +644,7 @@ got_shutdown got+shut+down
 got_shutout got+shut+out
 gotcha I+understand
 gotta have+to
-grand_total total 
+grand_total total
 grateful_thanks thanks
 growing_greater growing
 habeus_corpus habeas+corpus
@@ -682,7 +682,7 @@ hafta have+to
 hai yes
 hand_the_reigns hand+the+reins
 handwritten_manuscript manuscript
-harbour harbor 
+harbour harbor
 harbours harbors
 harry Harry
 has_ran has+run
@@ -881,8 +881,8 @@ merge_together merge
 might_of_been might+have+been
 might_of_had might+have+had
 mightnt might+not
-milage mileage 
-minuscule miniscule 
+milage mileage
+minuscule miniscule
 missing_gaps gaps
 mix_together blend
 more_easier easier
@@ -890,15 +890,15 @@ more_optimal better
 more_that more+than
 more_then more+than
 moreso more+so
-mother_in_law mother-in-law 
-mothers_in_law mothers-in-law 
+mother_in_law mother-in-law
+mothers_in_law mothers-in-law
 must_of must+have
 must_of_been must+have+been
 must_of_had must+have+had
 mustnt must+not
 mutual_confidence confidence
 mutual_cooperation cooperation
-my_opinion_is_that 
+my_opinion_is_that
 my_question_is_are are
 my_question_is_can can
 my_question_is_could could
@@ -1092,8 +1092,8 @@ shout_at tell
 shuddup shut+up
 side_affect side+effect
 sink_down sink
-sister_in_law sister-in-law 
-sisters_in_law sisters-in-law 
+sister_in_law sister-in-law
+sisters_in_law sisters-in-law
 sixties 60
 small_in_size small
 small_speck speck
@@ -1404,3 +1404,40 @@ does_there_appear_to_be is+there # raising verb
 does_there_begin_to_be is+there # raising verb
 does_there_continue_to_be is+there # raising verb
 does_there_seem_to_be is+there # raising verb
+<cos? why?
+pwn dominate
+ofc of+course
+doodz dudes
+d0xxes document
+d0x document
+<ur you+are
+1337_sp34k 'leet+speak
+2_b to+be
+4eva forever
+4ever forever
+b4 before
+bbf best+boyfriend
+bcoz because
+bf boyfriend
+bff best+friend
+brb be+right+back
+btw by+the+way
+c_u see+you
+coz because
+goin going
+hbu how+about+you
+hv have
+ik I+know
+luv love
+me_2 me+too
+plz please
+r are
+tmr tomorrow
+tnx thanks
+thnx thanks
+u you
+ur your
+urs yours
+urself yourself
+wats what+is
+y_do why+do
