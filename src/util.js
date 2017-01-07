@@ -103,6 +103,8 @@ const jsonFile = (file) => {
     const replacement = data[i].replacement;
     lineHandle(source, phrase, replacement);
   }
+
+  fileCache.push(file);
 };
 
 const prepFile = function prepFile(file) {
