@@ -47,7 +47,7 @@ const testRegexpArray = (msg) => {
       replacements = util.replacements[cleanedWord];
     }
     if (replacements) {
-      const replacementsMade = replacements.filter(phrase => phrase.phraseRegex.test(msg));
+      const replacementsMade = replacements.filter(phrase => !!msg.match(phrase.phraseRegex));
       replacementsMade.forEach(phrase => set.push(phrase.source));
     }
   }

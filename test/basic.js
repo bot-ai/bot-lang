@@ -144,5 +144,11 @@ describe('Bot-Lang', () => {
       assert.deepEqual(lang.tag.all('haha!'), ['laugh']);
       assert.deepEqual(lang.tag.all('...omg!'), ['surprise']);
     });
+
+    // context: http://stackoverflow.com/questions/1520800/why-regexp-with-global-flag-in-javascript-give-wrong-results
+    it('should not keep regexp state between calls', () => {
+      assert.deepEqual(lang.tag.all('hi there'), ['hello']);
+      assert.deepEqual(lang.tag.all('hi there'), ['hello']);
+    });
   });
 });
