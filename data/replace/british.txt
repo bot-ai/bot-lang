@@ -835,6 +835,7 @@
  jewelled jeweled
  jeweller jeweler
  jewellers jewelers
+ judgement judgment
  kilogramme kilogram
  kilogrammes kilograms
  kilometre kilometer
