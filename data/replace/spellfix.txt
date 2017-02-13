@@ -528,7 +528,6 @@ aquisition acquisition
 aquisitions acquisitions
 aquit acquit
 aquitted acquitted
-ar are
 aracnid arachnid 
 aranged arranged 
 arangement arrangement

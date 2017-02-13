@@ -33,3 +33,4 @@ watsup
 whatcha_upto
 whazzupp
 <how_do_you_do>
+sup
