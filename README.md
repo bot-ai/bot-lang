@@ -32,22 +32,22 @@ Clone the **bot-lang** repo and import
 
 ### Replace Interface
 
-  var cleanedString = lang.replace.all(string)
-  // replace subsitutes
-  // lang.replace.all('Nov 1st I weighed 90 kgs. total')
-  // => 'November 1st I weighed 90 kilograms total'
-  //
-  // expand contractions
-  // lang.replace.all("I'll listen to y'all")
-  // => 'I will listen to you all'
-  //
-  // swap british / canadian words'
-  // lang.replace.all('armour axe coloured gold')
-  // => 'armor ax colored gold'
-  //
-  // fix spelling
-  // lang.replace.all('are we sceduled thrsday for teh restraunt')
-  // => 'are we scheduled Thursday for the restaurant'
+    var cleanedString = lang.replace.all(string)
+    // replace subsitutes
+    // lang.replace.all('Nov 1st I weighed 90 kgs. total')
+    // => 'November 1st I weighed 90 kilograms total'
+    //
+    // expand contractions
+    // lang.replace.all("I'll listen to y'all")
+    // => 'I will listen to you all'
+    //
+    // swap british / canadian words'
+    // lang.replace.all('armour axe coloured gold')
+    // => 'armor ax colored gold'
+    //
+    // fix spelling
+    // lang.replace.all('are we sceduled thrsday for teh restraunt')
+    // => 'are we scheduled Thursday for the restaurant'
   
 
 ## Contributing
