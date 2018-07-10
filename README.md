@@ -3,7 +3,7 @@ A collection of common keywords or commands a user might use while interacting w
 
 Use these to create pattern matching systems OR to seed your training data for a machine learning system
 
-##API
+## API
 You'll need to run your node app with ES6. Start by installing :
 
  - `npm install --save-dev babel`
